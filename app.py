@@ -24,7 +24,7 @@ embeddings = AzureOpenAIEmbeddings(
     openai_api_key=os.getenv("AZURE_OPENAI_KEY"),
 )
 
-db = FAISS.load_local("vectorstore", embeddings)
+db = FAISS.load_local("vectorstore", embeddings, allow_dangerous_serialization=True)
 retriever = db.as_retriever()
 
 
