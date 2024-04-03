@@ -24,7 +24,7 @@ embeddings = AzureOpenAIEmbeddings(
     openai_api_key=os.getenv("AZURE_OPENAI_KEY"),
 )
 
-db = FAISS.load_local("vectorstore", embeddings, allow_dangerous_deserialization=True)
+db = FAISS.load_local("vectorstore", embeddings)
 retriever = db.as_retriever()
 
 
@@ -35,7 +35,7 @@ def format_docs(docs):
 llm = AzureChatOpenAI(
     model="gpt35turbo",
     api_key=os.getenv("AZURE_OPENAI_KEY"),
-    api_version="2023-05-15",
+    api_version="2024-02-01",
     azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
 )
 
