@@ -1,4 +1,4 @@
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_community.vectorstores.faiss import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai.embeddings import AzureOpenAIEmbeddings
@@ -7,17 +7,21 @@ import os
 
 load_dotenv()
 
-loader = PyPDFLoader(
-    "data/andritz-primeline-tissue-machines-data.pdf"
-)
+all_documents = []
+
+for file in os.listdir("data"):
+    if file.endswith(".pdf"):
+        pdf_pages = PyPDFLoader(os.path.join("data",file)).load()
+        all_documents.extend(pdf_pages)
+    if file.endswith(".txt"):
+        text_pages = TextLoader(os.path.join("data",file)).load()
+        all_documents.extend(text_pages)
 
 embeddings = AzureOpenAIEmbeddings(
     azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
     deployment="textEmbeddingModel",
     openai_api_key=os.getenv("AZURE_OPENAI_KEY"),
 )
-
-pages = loader.load()
 
 text_splitter = RecursiveCharacterTextSplitter(
     # Set a really small chunk size, just to show.
@@ -27,7 +31,7 @@ text_splitter = RecursiveCharacterTextSplitter(
     is_separator_regex=False,
 )
 
-splits = text_splitter.split_documents(pages)
+splits = text_splitter.split_documents(all_documents)
 
 db = FAISS.from_documents(splits, embeddings)
 

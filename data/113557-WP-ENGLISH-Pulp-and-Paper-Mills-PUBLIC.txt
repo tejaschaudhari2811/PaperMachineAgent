@@ -1,0 +1,1864 @@
+                         Environmental, Health, and Safety Guidelines
+                         PULP AND PAPER MILLS
+
+                                                                                                                                       WORLD BANK GROUP
+
+
+
+             Environmental, Health, and Safety Guidelines
+                       Pulp and Paper Mills
+                                                                                     specific variables, such as host country context, assimilative
+Introduction
+                                                                                     capacity of th e environment, and other project factors, are
+The Environmental, Health, and Safety (EHS) Guidelines are                           taken into account. The applicability of specific technical
+technical reference documents with general and industry-                             recommendations should be based on the professional opinion
+specific examples of Good International Industry Practice                            of qualified and experienced persons. When host country
+(GIIP) 1. When one or more members of the World Bank Group                           regulations differ from the levels and measures presented in
+are involved in a project, these EHS Guidelines are applied as                       the EHS Guidelines, projects are expected to achieve
+required by their respective policies and standards. These                           whichever is more stringent. If less stringent levels or measures
+industry sector EHS guidelines are designed to be used                               than those provided in these EHS Guidelines are appropriate,
+together with the General EHS Guidelines document, which                             in view of specific project circumstances, a full and detailed
+provides guidance to users on common EHS issues potentially                          justification for any proposed alternatives is needed as part of
+applicable to all industry sectors. For complex projects, use of                     the site-specific environmental assessment. This justification
+multiple industry-sector guidelines may be necessary. A                              should demonstrate that the choice for any alternate
+complete list of industry-sector guidelines can be found at:                         performance levels is protective of human health and the
+www.ifc.org/ifcext/enviro.nsf/Content/EnvironmentalGuidelines                        environment.
+
+The EHS Guidelines contain the performance levels and                                Applicability
+measures that are generally considered to be achievable in new
+                                                                                     The EHS Guideline for Pulp and Paper Mills includes
+facilities by existing technology at reasonable costs. Application
+                                                                                     information relevant to pulp and paper manufacturing facilities
+of the EHS Guidelines to existing facilities may involve the
+                                                                                     including wood-based chemical and mechanical pulping,
+establishment of site-specific targets, with an appropriate
+                                                                                     recycled fiber pulping, and pulping based on non-wood raw
+timetable for achieving them.
+                                                                                     materials such as bagasse, straw, and reed. It does not include
+                                                                                     production or collection of raw materials which are addressed in
+The applicability of the EHS Guidelines should be tailored to
+                                                                                     other relevant EHS Guidelines. Annex A contains a description
+the hazards and risks established for each project on the basis
+                                                                                     of industry sector activities.
+of the results of an environmental assessment in which site-
+                                                                                     This document is organized according to the following sections:
+1 Defined as the exercise of professional skill, diligence, prudence and foresight   Section 1.0 — Industry-Specific Impacts and Management
+that would be reasonably expected from skilled and experienced professionals
+engaged in the same type of undertaking under the same or similar                    Section 2.0 — Performance Indicators and Monitoring
+circumstances globally. The circumstances that skilled and experienced               Section 3.0 — References and Additional Sources
+professionals may find when evaluating the range of pollution prevention and         Annex A — General Description of Industry Activities
+control techniques available to a project may include, but are not limited to,       Annex B — Effluents and Emissions Guidelines / Resource Use
+varying levels of environmental degradation and environmental assimilative
+capacity as well as varying levels of financial and technical feasibility.           Benchmarks
+
+
+DECEMBER 10, 2007                                                                                                                                   1
+                            Environmental, Health, and Safety Guidelines
+                            PULP AND PAPER MILLS
+
+                                                                                                                                 WORLD BANK GROUP
+
+
+                                                                      dibenzodioxins) and PCDF (poly chlorinated dibenzofurans),
+1.0            Industry-Specific Impacts
+                                                                      commonly referred to as chlorinated dioxins and furans. When
+               and Management
+                                                                      Elemental Chlorine Free (ECF) or Total Chlorine Free (TCF)
+The following section provides a summary of EHS issues
+                                                                      bleaching technologies are used, the concentrations of dioxins
+associated with pulp and paper mills, which generally occur
+                                                                      and furans in the effluents are below the detection limits. 3 .
+during the operational phase, along with recommendations for
+their management. Recommendations for the management of               Among the sources of nitrogen and phosphorus compounds
+EHS issues common to most large industrial facilities during the      released into wastewaters, and potentially contributing to
+construction, operation and decommissioning phases are                eutrophication of receiving waters, is the wood raw material
+provided in the General EHS Guidelines.                               which is also a source of resin acids. Resin acids, especially
+                                                                      those based on coniferous wood pulp, can be toxic to fish and
+1.1            Environment                                            benthic invertebrates. Chlorinated phenols can be produced by
+The more significant environmental aspects of pulp and paper          elemental chlorine based bleaching of pulp.
+mills during the operational phase relate to:
+                                                                      Other issues related to wastewater discharges may include fish
+
+•       Wastewater                                                    tainting, color related to COD content and discharges of black
+
+•       Air emissions                                                 liquor, pulp spills from overflowing tanks, and runoff from log
+
+•       Waste                                                         yards. This last source may contain toxic chemicals (such as
+
+•       Noise                                                         tannins, phenols, resins, and fatty acids) leached from the
+                                                                      timber, and soil and other materials washed out of the bark.
+Wastewater
+                                                                      Wastewater Management – General
+Pulp and paper manufacturing activities may generate
+                                                                      Information about water conservation strategies applicable to
+wastewater discharges at a rate of 10-250 cubic meters per
+                                                                      most industrial facilities, which may contribute to the reduction of
+metric ton (m3/t) of product. Product is measured as air dry
+                                                                      wastewater streams, is provided in the General EHS
+pulp (ADP 2) in pulp mills, and as weight of paper sold in paper
+                                                                      Guidelines. Industry-specific wastewater prevention strategies
+and board mills. Prior to treatment pulp mill effluents are high in
+                                                                      potentially applicable to most pulp and paper manufacturing
+total suspended solids (TSS; mainly from cooking and pulping
+                                                                      processes are presented below. Recommended wastewater
+process screening, washing, and bleaching stages as well as
+                                                                      prevention and control methods include the following:
+from debarking residue, chemical recovery inorganics and
+fillers); biochemical oxygen demand (BOD) chemical oxygen
+demand (COD) and dissolved organic compounds mainly                   3 Of the chemicals listed in Annex C of the Stockholm Convention, only PCDD
+                                                                      and PCDF have been identified as being produced during the production of pulp
+arising from wet debarking cooking/pulping, screening, washing,       using elemental chlorine. Of the 17 PCDD/PCDF congeners with chlorine in the
+                                                                      2,3,7 and 8 positions, only two congeners – namely 2,3,7,8-TCDD and 2,3,7,8-
+bleaching, and chemical recovery plant liquor spills). Bleach         TCDF – have been identified as potentially being produced during chemical pulp
+                                                                      bleaching using chlorine. Most of the formation of the 2,3,7,8-TCDD and 2,3,7,8-
+plant effluents may include PCDD (poly chlorinated                    TCDF is generated in the C-stage of bleaching via the reaction of chlorine with
+                                                                      precursors of TCDD and TCDF (UNEP, 2006).
+2   Air dry pulp refers to pulp that is 90% dry.
+
+
+DECEMBER 10, 2007                                                                                                                             2
+                         Environmental, Health, and Safety Guidelines
+                         PULP AND PAPER MILLS
+
+                                                                                                                                WORLD BANK GROUP
+
+
+•      Dry debarking of wood;                                              o      Reducing application of elemental chlorine by
+•      Systems for collection and recycling of temporary and                      decreasing chlorine multiple or increasing the
+       accidental discharges from process water spills;                           substitution of chlorine dioxide for molecular chlorine
+
+•      Sufficient and balanced volumes of pulp storage, broke              o      Minimizing precursors such as dibenzo-p-dioxin and
+
+       storage and white water storage tanks to avoid or reduce                   dibenzofuran entering the bleach plant by using
+       process water discharges;                                                  precursor-free additives and thorough washing;
+
+•      Recycling of wastewater, with or without simultaneous               o      Maximize knot removal
+
+       recovery of fibers (using filters or flotation plants);             o      Eliminating pulping of furnish contaminated with
+
+•      Separation of contaminated and non- contaminated (clean)                   polychlorinated phenols
+
+       wastewaters with collection and reuse of clean non-contact    •     Removal of hexenuronic acids by mild hydrolysis for
+
+       cooling waters and sealing waters;                                  hardwood pulp, especially eucalyptus;
+
+•      Potentially contaminated stormwater includes runoff from      •     Collection and recycling of spent cooking liquor spills;
+
+       log and wood handling areas, process equipment, building      •     Stripping and reuse of evaporation and digester
+
+       roofs and areas immediately around the mill process areas.          condensates in order to reduce odor producing total
+
+       This should be combined with process effluent for                   reduced sulfur (TRS) compounds (Kraft and sulfite mills).
+
+       treatment.                                                    •     Neutralization of spent cooking liquor before evaporation
+                                                                           and reuse of condensate in order to reduce dissolved
+Guidance applicable to the management of cooling water, and
+                                                                           organics (Sulfite mills);
+additional guidance applicable to stormwater, is presented in the
+                                                                     •     Including chemical recovery in sulfite as well as Kraft mills.
+General EHS Guidelines.
+
+
+Wastewater Management – Kraft and Sulfite Pulp Mills                 Wastewater Management – Mechanical and Chemi-
+                                                                     mechanical Mills
+Additional recommended wastewater prevention and control
+                                                                     Additional recommended wastewater prevention and control
+methods for Kraft and sulfite mills include the following:
+                                                                     methods for mechanical and chemi-mechanical mills include the
+
+•      Oxygen delignification ahead of the bleach plant;             following:
+
+•      Efficient washing of the pulp ahead of the bleaching (Kraft
+                                                                     •     Minimizing reject losses;
+       and sulfite mills);
+                                                                     •     Maximizing water recirculation in mechanical pulping
+•      Decreasing or eliminating the formation of 2,3,7,8-TCDD
+                                                                           process;
+       and 2,3,7,8-TCDF in wood and non-wood bleaching
+                                                                     •     Application of thickeners to effectively separate water
+       processes by 4:
+                                                                           systems from the pulp and paper mills;
+       o    Replacement of elemental chlorine bleaching with
+            elemental chlorine free (ECF) bleaching 5 or total
+            chlorine free (TCF) bleaching
+                                                                     5ECF bleaching requires on-site manufacture of chlorine dioxide (ClO2). The
+                                                                     ClO2 process chosen should have low production of chlorine as a by -product of
+4   UNEP, 2006.                                                      ClO2 production.
+
+
+DECEMBER 10, 2007                                                                                                                            3
+                     Environmental, Health, and Safety Guidelines
+                     PULP AND PAPER MILLS
+
+                                                                                                                        WORLD BANK GROUP
+
+
+•    Separation of pulp mill and paper mill water systems as         Generic wastewater treatment technologies are discussed in the
+     well as use of counter-current water system from paper to       General EHS Guideline. Specific recommended applications
+     pulp mill to reduce overall water consumption, TSS and          common in the paper and pulp industry are as follows:
+     dissolved organics.
+                                                                     •   Primary mechanical treatment: A mechanical clarification
+                                                                         basin or settling pond is commonly used to remove
+Wastewater Management – Paper and Integrated Mills
+                                                                         suspended solids from wastewater. Chemical flocculation
+Additional recommended wastewater prevention and control
+                                                                         to assist in the removal of suspended solids is sometimes
+methods for paper and integrated mills include the following:
+                                                                         applied;
+•    Recycling of white water, with fiber recovery by means of       •   Secondary treatment: Biological treatment is applied in
+     disc filters, drum filters or micro flotation units and             most types of pulp and paper operations with relatively high
+     minimization of the number of fresh water intake points to          discharges of organic pollutants, including toxic
+     the white water system;                                             compounds such as resin acids and chlorinated organics.
+•    Separate treatment of coating wastewaters, e.g. by ultra            Specific applications include a number of different types
+     filtration – recycling of coating chemicals;                        and configurations of biological treatment. The most
+•    Substituting potentially harmful process chemicals with less        commonly used systems include a combination of i)
+     harmful alternatives.                                               activated sludge; ii) aerated lagoons; iii) biological filters of
+                                                                         various types, often used in combination with other
+Wastewater Treatment                                                     methods; iv) anaerobic treatment used as a pre-treatment
+End of pipe wastewater treatment technologies will depend on             stage, followed by an aerobic biological stage; and v)
+several factors including effluent composition, measurable               combinations of different methods, when very high
+effluent quality requirements, and discharge location (e.g. direct       efficiencies are necessary;
+to water course or pre-treatment before discharge to municipal       •   Additionally, extended aeration time is sometimes required
+or other WWTP). Pulp mill wastewater treatment should                    to oxidize toxic compounds such as resin and fatty acids,
+typically include primary treatment consisting of neutralization,        reduce biological sludge formation and to help ensure
+screening, sedimentation (or occasionally floatation/                    consistently high levels of treatment;
+hydrocycloning) to remove suspended solids,
+                                                                     •   Anaerobic biological pretreatment is favored for certain
+biological/secondary treatment to reduce the organic content in          types of effluents that are high in BOD/COD and low in
+wastewater and destroy toxic organics, and, less frequently,             toxic substances, such as sulfite pulping condensates and
+tertiary treatment to further reduce toxicity, suspended solids,         mechanical pulping and RCF effluents, with reuse of the
+organics, and color. Wastewater treatment processes generate             remaining purified condensates to reduce overall water
+sludge which requires management as a waste material or as               consumption and effluent volumes.
+by-products.
+
+
+
+
+DECEMBER 10, 2007                                                                                                                   4
+                     Environmental, Health, and Safety Guidelines
+                     PULP AND PAPER MILLS
+
+                                                                                                                                   WORLD BANK GROUP
+
+
+Air Emissions                                                               TRS gases. The recovery boiler is the preferred point of
+
+The principal air emissions in pulp and paper production consist            incineration;
+
+of process gases which vary by type of pulping process and            •     As far as possible, the point of discharge of the necessary
+which may include sulfur compounds (with associated odor                    emergency vents to atmosphere should be a high, hot
+issues), particulate matter, nitrogen oxides, volatile organic              stack, such as the recovery or power boiler.
+compounds, chlorine, carbon dioxide, and methane. Other               •     When waste water treatment plant odors are problematic,
+common sources of emissions include flue gases from                         considering use of oxygen activated sludge with capture
+incineration plants and from auxiliary steam and power                      and subsequent incineration of gaseous emi ssions.
+generating units emitting particulate matter, sulfur compounds
+                                                                      Incineration of the TRS gases can be accomplished within the
+and nitrogen oxides.
+                                                                      process equipment, preferably in the recovery boiler where
+
+Process Gases – Kraft and Sulfite Mills                               sulfur can be recovered, but also in the power boiler. For
+Malodorous Gases (Kraft mills) - Kraft pulping processes              concentrated gases, other options include the lime kiln (although
+typically emit highly malodorous reduced sulfur compounds             the resulting generation of calcium sulfate needs to be
+denoted as total reduced sulfur (TRS), which include hydrogen         considered), or in a separate external incinerator.
+sulfide, methyl mercaptan, dimethyl sulfide, and dimethyl
+                                                                      Recovery Boilers (Kraft and sulfite mills) – Emissions from
+disulfide. Wastewater treatment plants can sometimes be a
+                                                                      recovery boilers are typically characterized by the presence of
+more significant source of malodorous gases that the process
+                                                                      particulate matter and sulfur dioxide. Other key constituents
+itself. Recommended emissions management strategies
+                                                                      include nitrogen oxides and sometimes hydrogen sulfide in kraft
+include the following:
+                                                                      mills. Sulfur dioxide recovery is considered fundamental in
+
+•    For bleached and unbleached Kraft mills, malodorous              sulfi te mills. Primary emissions management strategies include
+
+     gases from vents at all points in the process handling black     the following:
+
+     liquor, unwashed brown pulp, partially washed brown pulp,
+                                                                      •     Oxidation of black liquor prior to direct contact
+     unbleached pulp, and condensates should be collected and
+                                                                            evaporation 6;
+     incinerated to completely oxidize all reduced sulfur
+                                                                      •     Reducing sulfur emissions by concentrating black liquor in
+     compounds;
+                                                                            the evaporator (Kraft mills) above 75% dry solids before
+•    In the case of high concentration gases (generally from
+                                                                            incineration in the recovery boiler;
+     condensates and digester vents), a stand-by system for
+                                                                      •     Reducing sulfur emissions by controlling combustion
+     incineration should be provided, designed to take over from
+                                                                            process parameters in the recovery boiler including
+     the main system, as required, thus minimizing venting of
+                                                                            temperature, air supply, distribution of black liquor in the
+     TRS gases to the atmosphere;
+                                                                            furnace, and furnace load (Kraft mills);
+•    In sensitive situations (i.e. proximity to residential areas),
+     consideration should be given to a standby incinerator or
+                                                                      6Applicable to existing facilities, as direct contact evaporators should not be
+     other alternative incineration point for the low-concentration   used in new facilities.
+
+
+DECEMBER 10, 2007                                                                                                                                5
+                         Environmental, Health, and Safety Guidelines
+                         PULP AND PAPER MILLS
+
+                                                                                                                                            WORLD BANK GROUP
+
+
+•     Reduced emissions of nitrogen oxides (NOx ) by control of                       •    Use of secondary particulate emissions controls such as
+      firing conditions, such as excess air;                                               electrostatic precipitators in recovery boilers, auxiliary
+•     Collecting SO2 emissions by absorption in alkaline solution                          boilers, and lime kilns;
+      to generate new cooking liquor (sulfite pulp mills)                             •    Use of secondary SO2 emissions controls such as alkaline
+                                                                                           wet scrubbers for removal of acid gases and by-products of
+Stacks should be designed according to the Good International
+                                                                                           the incineration of TRS gases.
+Industry Practice (GIIP) approach provided in the General EHS
+Guidelines.7                                                                          Volatile Organic Compounds (All mills) 8 - Volatile organic
+                                                                                      compounds (VOCs) are emitted to the atmosphere from poorly
+Lime Kilns (Kraft mills) – The calcination reaction process                           designed utility boilers burning bark and other wood-based fuel.
+results in emissions of NOx , SO2, and particulate matter. TRS
+                                                                                      At mechanical pulping mills, principal sources of VOC emissions
+gases may also be released due to poor removal of sodium
+                                                                                      include evacuation of air from wood-chip washing and from the
+sulfide (Na2S) from the lime mud. Recommended primary
+                                                                                      condensing shower, where steam released in mechanical
+emissions management strategies include the following:
+                                                                                      pulping processes, contaminated with volatile wood
+•     SO2 emissions should be reduced through use of low sulfur                       components, is condensed. The concentrations of VOCs
+      content fuel and control of excess oxygen;                                      depend on the resin content of the wood and the specific
+•     NOx emissions should be reduced through control of firing                       defiberizing techniques applied. The emitted substances include
+      conditions;                                                                     acetic acids, formic acids, ethanol, pinenes, and terpenes.
+
+•     Hydrogen sulfide emissions should be reduced by proper                          Recommended measures to minimize VOC emissions include:
+
+      kiln operation and control of residual sodium sulfide in the
+                                                                                      •    Ensure that VOC emissions from mechanical pulping of
+      lime mud. This can be achieved by proper lime mud
+                                                                                           wood with high extractive (resin) content are recovered in
+      washing and filtering to remove sodium sulfide and
+                                                                                           the heat recovery units and the start- up scrubber (for TMP
+      decrease water content (to about 20 to 30 percent) which
+                                                                                           steam), and collect and further treat volatile compounds.
+      permits on- filter air oxidation of residual sulfide prior to the
+                                                                                           VOC-containing exhaust air can be incinerated in existing
+      dried mud entering the kiln.
+                                                                                           boilers or a separate furnace. Terpenes can be recovered
+Recommended secondary emissions control measures                                           from those contaminated condensates that contain mainly
+applicable to the above sources of emissions include the                                   terpenes;
+following:                                                                            •    Operating bark boilers with excess oxygen sufficient to
+                                                                                           prevent VOC (and CO) emissions while minimizing
+                                                                                           formation of NOx . Fluidized bed technology is preferred for
+                                                                                           solid waste boilers.
+
+7 For pulp mills, this may consist of a high single stack typically over 100 meters
+in height above immediately surrounding land or as defined by atmospheric             8 This section addresses VOCs other than the malodorous compounds
+emissions dispersion modeling.                                                        discussed above.
+
+
+DECEMBER 10, 2007                                                                                                                                         6
+                        Environmental, Health, and Safety Guidelines
+                        PULP AND PAPER MILLS
+
+                                                                                                                                WORLD BANK GROUP
+
+
+Combustion Sources                                                                efficient vacuum pumps; and proper sizing of pipes, pumps
+Pulp and paper mills are large energy and steam consumers                         and fans;
+sometimes making use of auxiliary boilers (bark boilers and                  •    Maximizing the generation of electric power by maintaining
+additional steam boilers) for the generation of steam energy.                     high boiler pressure; keeping outlet steam pressure in the
+Emissions related to the operation of these steam energy                          back-pressure turbine as low as technically feasible; using
+sources typically consists of combustion by-products such as                      a condensing turbine for power production from excess
+NOx , SOx , PM , and volatile organic compounds (VOCs), and                       steam and maintaining high turbine efficiency; and
+greenhouse gases. Recommended management strategies                               preheating of air and fuel charged to boilers.
+include adoption of a combined strategy which includes a
+reduction in energy demand, use of cleaner fuels, and                        Guidance for the management of small combustion source
+                                                                             emissions with a heat input capacity of up to 50 MWth, including
+application of emissions controls where required. In energy
+                                                                             exhaust emission guidelines, is provided in the General EHS
+efficient non-integrated pulp mills, the heat generated from black
+                                                                             Guidelines. Guidance applicable to combustion sources greater
+liquor and bark combustion should exceed the energy
+                                                                             than 50 MWth is presented in the Thermal Power Guidelines.
+requirement for the entire production process.
+
+
+Recommendations on energy efficiency are addressed in the                    Residues and Waste
+General EHS Guidelines. Additional recommendations specific                  Pulp and paper mills typically generate significant quantities of
+
+to pulp and paper operations include: 9, 10                                  non-hazardous solid wastes but very little hazardous wastes.
+                                                                             Industry specific wastes include bark from debarking of wood,
+•     Reducing heat losses and heat consumption by increasing                residual pith from bagasse pulping, inorganic sludge (e.g. green
+      dry solids content of bark which is burnt; increasing                  liquor sludge, lime sludge) from chemical recovery, trash (e.g.
+      efficiency of steam boilers (e.g. use of economizers);                 plastics) separated from paper/card in RCF plants, and fiber
+      increasing effectiveness of the secondary heating system               (i.e., primary clarifier) sludge and biological sludge from
+      (e.g. hot water about 85 °C); increasing use of secondary              wastewater treatment. A small amount of hazardous waste is
+      heat to heat buildings; and increasing high pulp                       generated in all mills, and includes oil and grease residues,
+      concentration, as well as maintaining a tightly closed water           scrap electrical equipment, and chemical residues which
+      system and a partially closed bleaching plant;                         normally amount to about 0.5-1kg/ton of product.
+•     Reducing electric power consumption by maintaining as
+      high a pulp consistency as possible in screening and                   The classification of solid wastes as hazardous or non-
+
+      cleaning; controlling the speed of large motors rather than            hazardous should be established based on local regulatory
+
+      using throttling valves or dampers for flow control; using             criteria. Hazardous and non-hazardous wastes should be
+                                                                             carefully segregated to reduce the volume of wastes that could
+                                                                             be contaminated with hazardous material and hence classified
+                                                                             as hazardous. Guidance for management and safe disposal of
+9 EU BREF (2001).
+10 See also Williamson (1994) for additional guidance on energy efficiency   hazardous and non-hazardous industrial waste is addressed in
+improvements.
+
+
+DECEMBER 10, 2007                                                                                                                          7
+                          Environmental, Health, and Safety Guidelines
+                          PULP AND PAPER MILLS
+
+                                                                                                                                                  WORLD BANK GROUP
+
+
+the General EHS Guidelines. Additional guidance specifically                                    dewatering or, less frequently, as forest fertilizer
+applicable to pulp and paper mills includes the following:                                      (based on an analysis of nutrient contents and
+                                                                                                potential impacts from land application). It can also be
+•     Solid waste volumes should be reduced to the extent                                       used as a neutralization agent for acidic wastewater;
+      feasible through in- situ reuse and recycling of materials,                        o      Deinking sludge (RCF mills) can be used as a filler in
+      example of which include:                                                                 other paper grades, composted with other organic
+      o     Recycling of fiber sludge;                                                          materials for preparation of soil products, or else
+      o     Reintroducing knots and screenings into the digestion                               incinerated;
+            process;                                                                     o      Pith (bagasse mills) can be composted with other
+      o     Improving sludge dewatering to facilitate burning of                                organic materials for preparation of soil products or
+            sludge (often in auxiliary boilers, using a support fuel);                          else incinerated;
+      o Reducing the generation of organic wastes such as                                o      Fiber sludge can be recycled into production on site,
+            bark by debarking in the forest (leaving the bark                                   sold to other mills, or sent off-site for use in other
+            behind as soil conditioner);                                                        products. It can also be incinerated or used as landfill
+      o Incinerating organic wastes, such as bark , in steam      11
+                                                                                                daily cover material;
+            generating boilers to reduce overall fuel consumption.                       o      Biological sludge can be incinerated in the bark boiler
+                                                                                                together with fiber sludge, or evaporated and
+•     Additional waste management recommendations include:
+                                                                                                incinerated in the kraft mill recovery system. It can
+      o     Debarking waste 12 should be minimized through clean
+                                                                                                also be composted with other organic materials for the
+            wood handling followed by segregation of clean
+                                                                                                preparation of soil products;
+            organic fractions that can be used as a fuel in steam
+                                                                                         o      Tertiary treatment sludge can be blended with other
+            generation while the remaining fraction should be
+                                                                                                sludge for incineration in the bark boiler as well as
+            landfilled;
+                                                                                                composted with other organic materials for
+      o     Bark ash, wood ash and other ashes may be recycled
+                                                                                                preparation of soil products. 13
+            as fill material in construction work, road construction,
+            as a soil conditioning agent, or otherwise landfilled;
+                                                                                   Noise
+      o     Lime mud (Kraft mills) is normally recycled in the mill
+                                                                                   Pulp and paper mills are inherently noisy due to the large
+            recovery system but excess material can be
+                                                                                   amount of mechanical equipment, transport vehicles, physical
+            commercially used for liming of acid soils or otherwise
+            landfilled;                                                            13 The applicability of sludge management methods depends on the actual
+      o     Green liquor sludge (Kraft mills) can be used as a                     quality and type of sludge. For example, incineration in the recovery boiler is
+                                                                                   typically only applicable for biological sludge in Kraft mills. Incineration in a bark
+            daily cover in solid waste landfills after improved                    boiler or separate incinerator is feasible only for sludge with relatively high
+                                                                                   contents of organics and high contents of dry solids. Composting is feasible only
+                                                                                   for sludge with high contents of organics. Sludge from a waste treatment plant
+                                                                                   needs to be evaluated on a case-by -case basis to establish whether it
+11 “Bark” is the main part of the bark removed from the logs which is relatively
+                                                                                   constitutes a hazardous or a non-hazardous waste and its potential impacts
+clean and suitable as fuel for a solid fuel boiler.
+                                                                                   from land application.
+12 “Debarking waste” is a smaller fraction of the bark, contaminated with soil
+and gravel, which may not be suitable as fuel.
+
+
+DECEMBER 10, 2007                                                                                                                                               8
+                    Environmental, Health, and Safety Guidelines
+                    PULP AND PAPER MILLS
+
+                                                                                                                      WORLD BANK GROUP
+
+
+activities, and energy usage, notably vacuum pumps, liquid          Chemical hazards
+pumps and steam generation systems. Guidance for noise              Numerous chemicals are used and manufactured in the pulp
+management is provided in the General EHS Guidelines.               and paper industry that can have adverse impacts on worker
+                                                                    health and safety. These include:
+1.2          Occupational Health and Safety
+                                                                    Gases—such as reduced sulfur compounds (kraft pulping),
+Occupational health and safety issues should be considered as
+                                                                    oxidized sulfur compounds, mainly sulfur dioxide (kraft and
+part of a comprehensive hazard or risk assessment, including,
+                                                                    sulfite pulping), chlorine, chlorine dioxide, terpenes and other
+for example, a hazard identification study [HAZID], hazard and
+                                                                    volatile organic compounds, and oxygen;
+operability study [HAZOP], or other risk assessment studies.
+The results should be used for health and safety management         Liquids—including sodium hydroxide and other caustics, acids
+planning, in the design of the facility and safe working systems,   such as sulfuric acid, cooking byproducts such as turpentine,
+and in the preparation and communication of safe working            sodium hypochlorite, aqueous solution of chlorine dioxide,
+procedures.                                                         hydrogen peroxide, biocides, papermaking additives, solvents,
+                                                                    and dyes and inks; and
+General facility design, operation, and monitoring measures to
+manage principal risks to occupational health and safety are        Solids—including sodium chlorate, sodium sulfate, lime, calcium
+provided in the General EHS Guidelines. General guidance            carbonate, ash, and asbestos (used for insulation).
+specific to construction and decommissioning activities is also
+provided along with guidance on health and safety training,         Recommended measures to prevent, minimize, and control
+personal protective equipment and the management of physical,       potential worker health and safety impacts from chemicals
+chemical, biological and radiological hazards common to all         include:
+industries.
+                                                                    •    Automate pulping and bleaching operations to the extent
+Occupational health and safety issues for further consideration          possible, such that operators can monitor and operate the
+in pulp and paper mills include:                                         processes from control rooms isolated from potential
+                                                                         chemical exposures and other health and safety hazards.
+•     Chemical hazards                                                   Effective process control also minimizes the use of
+•     Physical hazards                                                   bleaching and other chemicals;
+•     Wood dust                                                     •    Provide engineering controls, such as automatic digester
+•     Biological agents                                                  capping valves; local exhaust at batch digesters and blow
+•     Heat                                                               tanks capable of venting at the rate that the vessels’ gases
+•     Confined spaces                                                    are released; negative pressure in recovery boilers and
+•     Noise                                                              sulfite-sulfur dioxide acid towers to prevent gas leaks;
+•     Radiation                                                          ventilated full or partial enclosures over post-digestion
+                                                                         vessels; enclosed or ventilated lime conveyors, elevators,
+
+
+DECEMBER 10, 2007                                                                                                                   9
+                        Environmental, Health, and Safety Guidelines
+                        PULP AND PAPER MILLS
+
+                                                                                                                                   WORLD BANK GROUP
+
+
+      and storage bins; canopy enclosures with dedicated                         •    Keep sulfur storage bins free of sulfur dust accumulation;
+      exhaust ventilation for each bleaching tower and washer;                   •    Implement an inspection and maintenance program to
+      and enclosures over sheet dryers;        14
+                                                                                      prevent and identify leaks, equipment failure, etc.
+•     Install continuous gas monitors with alarms where leaks or
+      generation of hazardous gases may occur, such as
+      chemical recovery, chlorine storage area, chlorine dioxide                 Physical hazards
+      generator, and bleaching areas, and provide all employees,                 The most severe injuries in this sector are often attributable to
+
+      contractors, and visitors in these areas with emergency                    the failure of lockout - tagout systems. Robust lockout - tagout
+
+      escape respirators;                                                        procedures as described in the General EHS Guidelines
+
+•     Maintain a current database of all chemicals used and                      should be implemented.
+
+      manufactured in the mill, including data on hazards,
+                                                                                 General Physical Hazards
+      toxicology, biological properties, etc;
+                                                                                 Recommended measures to prevent, minimize, and control
+•     Identify and prevent possible chemical reactions that can
+                                                                                 general physical hazards (e.g. trips, falls, and materials handling
+      result in formation of hazardous gases and other
+                                                                                 hazards) include:
+      substances (e.g., combination of spent sulfate pulping
+      liquor and acids in the wastewater system can generate                     •    Install catch platforms under conveyors that cross
+      hydrogen sulfide). All chemicals used or manufactured at                        passageways or roadways;
+      the site should be reviewed for reactivity with other classes
+                                                                                 •    Quickly clean up spills;
+      of chemicals used at the facility;
+                                                                                 •    Use non-skid walking surfaces that allow drainage;
+•     Label, mark, package and store all chemicals and
+                                                                                 •    Install guard rails on walkways adjacent to production lines
+      hazardous materials according to national and
+                                                                                      or at height, and clearly mark traffic lanes for vehicles and
+      internationally recognized requirements and standards;
+                                                                                      pedestrians;
+•     Ensure contractor personnel, including maintenance
+                                                                                 •    Equip mobile equipment with roll-over protection.
+      contractors retained during shutdowns, are trained in and
+                                                                                 •    Establish routines to ensure that heavy loads are not
+      follow site safety procedures, including use of personal
+                                                                                      moved by crane over personnel;
+      protective equipment and handling of chemicals;
+•     Train workers in handling of chlorine dioxide and sodium                   Machine Safety
+      chlorate. Wet sodium chlorate spills with water and keep                   Pulp mills employ wood processing and other equipment such
+      any contaminated clothing wet until laundered;                             as debarkers and chippers with the potential to expose workers
+•     Avoid the use of elemental chlorine for bleaching;                         to severe injury.
+•     Use water-based (rather than solvent- based) inks and
+      dyes;
+
+14International Labour Organization, Encyclopaedia of Occupational Health and
+Safety, 4th Edition, Chapter 72, Pulp and Paper Industry, Occupational Hazards
+and Controls.
+
+
+DECEMBER 10, 2007                                                                                                                             10
+                        Environmental, Health, and Safety Guidelines
+                        PULP AND PAPER MILLS
+
+                                                                                                                                            WORLD BANK GROUP
+
+
+Recommendations to prevent, minimize, and control injuries                       •     Establish and follow safety practices for unloading logs,
+from chipping and debarking equipment include:
+                                  15
+                                                                                       lumber and chips; 18
+                                                                                 •     Complete mechanization of log yard activities should be
+•     Equipment with moving parts (e.g., the in-running nips
+                                                                                       considered to reduce human contact with logs during
+      between the chain and sprocket of conveyors; conveyor
+                                                                                       handling and stacking activities;
+      drums, drive belts, pulleys, and shafts; rollers on paper
+                                                                                 •     Transport routes within log yards should be clearly
+      machines; shredder feed rolls; etc.) should be fitted with
+                                                                                       demarcated and vehicle movement should be closely
+      safety guards or interlocks capable of preventing access to
+                                                                                       controlled;
+      moving parts;
+                                                                                 •     Log stacks should not be higher than a safe height defined
+•     Equipment must be shut off and locked out before
+                                                                                       by risk assessment which should take account of site-
+      maintenance, cleaning, or repairs are undertaken; 16
+                                                                                       specific circumstances including stacking methodology;19
+•     Workers should be trained specifically in the safe use of
+                                                                                 •     Access to log yards should be restricted to authorized
+      debarking, chipping, and other equipment;
+                                                                                       personnel;
+•     Work stations should be aligned to minimize human danger
+                                                                                 •     Log decks should have stops, chains, or other guards to
+      from fragments which could arise from breakage;
+                                                                                       prevent logs from rolling down and off the deck;
+•     Equipment should be regularly inspected and maintained to
+                                                                                 •     Workers should be trained in safe working procedures in
+      prevent equipment failure;
+                                                                                       log stack and deck areas, including avoidance of falling
+•     All personnel operating cutting equipment should use
+                                                                                       logs and planning of escape routes;
+      protective eyewear, and other PPE as necessary.
+                                                                                 •     Workers should be provided with protective steel capped
+                                                                                       boots, hardhats, and high visibility jackets;
+Log Handling Activities
+                                                                                 •     All mobile equipment should have audible reversing
+Logs are generally unloaded from railroad cars or heavy trucks
+                                                                                       alarms.
+and stacked by machines before being moved to log conveyors
+and log decks for processing in the pulp mill. Injuries due to
+vehicle movement in log yards can be severe, in addition to                      Wood dust
+injuries from logs that roll off or are dropped by handling                      Exposure to wood dust is a potential concern in the wood
+
+equipment or are dislodged from log stacks.                                      handling area of pulp mills (e.g. in semi-mechanized chippers),
+                                                                                 as well as in the initial stages of pulping. Exposure to fiber dust
+Recommendations to prevent, minimize, and control injury in log                  can occur in paper mills. Paper fiber dust is also a fire hazard.
+yards include 17:
+
+                                                                                 17 Specific techniques for log receiving and handling can be found at US OSHA
+                                                                                 (2003), available at: http://www.osha-slc.gov/SLTC/etools/sawmills/receive.html
+15 Specific techniques for minimizing injuries associated with cutting and       and http://www.osha-slc.gov/SLTC/etools/sawmills/convey.html
+debarking equipment can be found at US OSHA (2003), available at:                18 See, for example, U.S. Occupational Health Administration regulations for
+
+http://www.osha-slc.gov/SLTC/etools/sawmills/log_breakdown.html                  loading and unloading logs, 29 Code of Federal Regulations (CFR)
+16 See, for example, U.S. Occupational Health Administration regulations for     1910.266(h)(6), and Oregon Administrative Rule (OAR) 437-02-312.
+Pulp, Paper, and Paperboard Mills, 29 Code of Federal Regulations (CFR)          19 Manual stacking operations may typically limit stacking height to 2 meters
+
+1910.261(a), and relevant American National Standards Institute codes, such as   while mechanical stacking operations may safely work with greater stacking
+O1.1-2004: Woodworking Machinery Safety Requirements.                            heights.
+
+
+DECEMBER 10, 2007                                                                                                                                       11
+                       Environmental, Health, and Safety Guidelines
+                       PULP AND PAPER MILLS
+
+                                                                                                                     WORLD BANK GROUP
+
+
+Recommended measures to prevent, minimize, and control dust         measures to prevent, minimize, and control heat exposure in the
+include:                                                            pulp and paper sector include:
+
+
+•    Enclose and ventilate saws, shredders, dusters, and wood       •    Provide air-conditioned control rooms, including in wood
+     chip conveyors;                                                     preparation, pulping, bleaching, and paper- making areas;
+•    Consider enclosed chip storage;                                •    Schedule work in hot areas to allow acclimatization and
+•    Avoid use of compressed air to clear wood dust and waste            rest periods;
+     paper;                                                         •    Automate smelt removal from the chemical recovery boiler.
+•    Enclose and ventilate areas where dry, dusty additives are          Provide heavy-duty protective clothing to workers
+     unloaded, weighed, and mixed, or use additives in liquid            potentially exposed to mo lten smelt or other high-
+     form;                                                               temperature materials;
+•    Regularly inspect and clean dusty areas to minimize dust       •    Implement safety procedures to minimize the potential for
+     explosion risk.                                                     smelt/water explosions. Smelt should be transferred at a
+                                                                         controlled rate, and recovery boilers maintained to prevent
+Biological agents                                                        water leaks from the tube walls of the boiler. Chemical
+Biological agents include microorganisms such as bacteria,               recovery boiler operations should be shut down at the first
+fungi and viruses, some of which may be pathogenic.                      indication of a leak;
+Microorganisms develop particularly in paper machines’ closed-      •    Consider use of mobile equipment with air-conditioned
+loop systems, biological treatment plants for mill wastewaters,          enclosed cabs.
+and water cooling towers.
+                                                                    Confined Spaces
+Recommended measures to prevent, minimize, and control
+                                                                    Operation and especially maintenance work may include
+exposure to biological agents include:
+                                                                    confined space entry. Examples include: boilers, dryers,
+                                                                    degreasers, digesters, blow pits, pipeline pits, process and
+•    Design biological treatment plants to minimize the potential
+                                                                    reaction vessels, tanks, and vats. Impacts and mitigation
+     for growth of pathogenic organisms;
+                                                                    measures for confined space entry are addressed in the
+•    Use biocides in cooling water and in pulping and
+                                                                    General EHS Guideline.
+     papermaking processes to minimize growth of
+     microorganisms.
+                                                                    Noise
+Heat                                                                Two major sources of noise are wood debarking in pulp mills
+Many pulping operations, including pulp cooking, pulping            and the paper machine in paper mills, but other processes can
+chemical recovery, lime production, and paper drying involve        also be noise generators. Use of control rooms, as discussed
+high temperatures and, in some cases, high pressures. Heat          above, is an effective engineering control. Additional
+protection measures common to most large industrial operations      recommendations on the management of occupational noise are
+are discussed in the General EHS Guideline. In addition,            provided in the General EHS Guidelines.
+
+
+DECEMBER 10, 2007                                                                                                               12
+                        Environmental, Health, and Safety Guidelines
+                        PULP AND PAPER MILLS
+
+                                                                                                                                    WORLD BANK GROUP
+
+
+Radiation                                                                        management of these issues is presented below and in relevant
+
+Certain measurement equipment, particularly in paper mills,                      sections of the General EHS Guidelines including: Traffic
+
+contains radioactive material. These units are typically sealed,                 Safety; Transport of Hazardous Materials; and Emergency
+
+but damage to or maintenance of devices containing radioactive                   Preparedness and Response.
+
+material may result in exposure. These devices should be
+designed and operated according to applicable national
+                                                                                 Odors
+                                                                                 Chemical pulping, and Kraft pulping in particular, generates
+requirements and internationally accepted standards for
+                                                                                 malodorous reduced sulfur compounds that can create a
+occupational 20 and/or natural 21 exposure to ionizing radiation,
+                                                                                 nuisance for nearby residents. Modern air pollution controls, as
+such as “International Basic Safety Standard for protection
+                                                                                 discussed in Section 1.1, prevent the odors formerly associated
+against Ionizing Radiation and for the Safety of Radiation
+                                                                                 with pulp mills although emissions can still occur during upset
+Sources” 22 and its three interrelated Safety Guides. Additional
+                                                                                 conditions. Therefore, greenfield projects should consider the
+recommendations on the management of radiation exposure are
+                                                                                 location and distance of a proposed facility with regards to
+provided in the General EHS Guidelines.
+                                                                                 residential or other community areas.
+
+1.3 Community Health
+                                                                                 Traffic
+Community health and safety issues during the construction and                   Pulp and paper mills require a large volume of wood, either as
+decommissioning of pulp and paper mills are common to those                      logs or as chips, and export a large volume product, and these
+of most large industrial facilities and their prevention and control             materials are often transported by truck. This can result in a
+is discussed in the General EHS Guidelines.                                      significant increase in truck traffic in the community. Traffic
+                                                                                 safety measures are addressed in the General EHS Guideline.
+Community health and safety impacts primarily occur during the
+operation phase of pulp and paper facilities and include:
+
+
+•     Chemical storage, use, and transport
+•     Odors
+•     Traffic
+
+
+Chemical Storage Use and Transport
+Major accidents can result in releases, fires, and explosions in
+pulping or bleaching operations or during product handling and
+transport outside the processing facility. Guidance for the
+
+
+20 Organizations processing, or applying radioactive substances for purposes
+such as medical or industrial processes, education, training, research, etc.
+21 Underground mines (other than those for radioactive ore), spas, radon prone
+
+areas, etc.
+22 IAEA Safety Series No. 115.
+
+
+
+
+DECEMBER 10, 2007                                                                                                                             13
+                         Environmental, Health, and Safety Guidelines
+                         PULP AND PAPER MILLS
+
+                                                                                                                                       WORLD BANK GROUP
+
+
+                                                                                     steam- and power-generation activities from sources with a
+2.0         Performance Indicators and                                               capacity equal to or lower than 50 MWth are addressed in the
+            Monitoring                                                               General EHS Guidelines with larger power source emissions
+                                                                                     addressed in the Thermal Power EHS Guidelines. Guidance
+2.1         Environment                                                              on ambient considerations based on the total load of emissions
+
+Emissions and Effluent Guidelines                                                    is provided in the General EHS Guidelines.
+
+Tables 1(a) through 1(l) provide the effluent guidelines and
+                                                                                     Resource Use
+Table 2 the emissions guidelines for pulp and paper mills. These
+                                                                                     Table 3 provides examples of energy use and water
+guidelines are assumed to be achievable under normal
+                                                                                     consumption from the pulp and paper sector that can be
+operating conditions in appropriately designed and operated
+                                                                                     considered as indicators of the sector’s efficiency and may be
+facilities through the application of pollution prevention and
+                                                                                     used to track performance changes over time. The actual
+control techniques discussed in the preceding sections of this
+                                                                                     energy consumption depends on the process configuration,
+document.
+                                                                                     process equipment, and process control efficiency.
+Effluent guidelines represent annual average values 23 and are
+applicable for direct discharges of treated effluents to surface                     Environmental Monitoring
+waters for general use. Site-specific discharge levels may be                        Environmental monitoring programs for this sector should be
+
+established based on the availability and conditions in the use of                   implemented to address all activities that have been identi fied to
+
+publicly operated sewage collection and treatment systems or, if                     have potentially significant impacts on the environment, during
+
+discharged directly to surface waters, on the receiving water use                    normal operations and upset conditions. Environmental
+
+classification as described in the General EHS Guideline. These                      monitoring activities should be based on direct or indirect
+
+levels should be achieved, without dilution, at least 95 percent of                  indicators of emissions, effluents, and resource use applicable
+
+the time that the plant or unit is operating, to be calculated as a                  to the particular project.
+
+proportion of annual operating hours. Deviation from these
+                                                                                     Monitoring frequency should be sufficient to provide
+levels in consideration of specific, local project conditions should
+                                                                                     representative data for the parameter being monitored.
+be justified in the environmental assessment. 24
+                                                                                     Monitoring should be conducted by trained individuals following
+
+Emissions guidelines are applicable to process emissions.                            monitoring and record-keeping procedures and using properly
+
+Combustion source emissions guidelines associated with                               calibrated and maintained equipment. Monitoring data should be
+                                                                                     analyzed and reviewed at regular intervals and compared with
+23 Daily averages should not be greater than 2.5 times the annual average            the operating standards so that any necessary corrective
+values.
+24 The effluent guidelines are based on production load (e.g. emissions as kg
+                                                                                     actions can be taken. Additional guidance on applicable
+per ton of produced pulp or paper). In separate (non-integrated) pulp mills and
+paper mills, the specific data (e.g. “kg/ton air dry pulp” or “kg/ton paper” ) is    sampling and analytical methods for emissions and effluents is
+unambiguous. In an integrated mill, the emission indicator is usually given as “kg
+per ton of paper”, which should include the emissions of both the pulp mill and      provided in the General EHS Guidelines.
+the paper mill. If an integrated mill sells both paper and pulp, the most relevant
+indicator would be “kg/ton pulp total”, where “pulp total” is approximately the
+sum of produced paper and marketed pulp.
+
+
+DECEMBER 10, 2007                                                                                                                                  14
+                        Environmental, Health, and Safety Guidelines
+                        PULP AND PAPER MILLS
+
+                                                                                                                                        WORLD BANK GROUP
+
+
+2.2         Occupational Health and Safety                                  designed and imp lemented by credentialed professionals 30 as
+                                                                            part of an occupational health and safety monitoring program.
+Occupational Health and Safety Guidelines                                   Facilities should also maintain a record of occupational
+Occupational health and safety performance should be                        accidents and diseases and dangerous occurrences and
+evaluated against internationally published exposure guidelines,            accidents. Additional guidance on occupational health and
+of which examples include the Threshold Limit Value (TLV®)                  safety monitoring programs is provided in the General EHS
+occupational exposure guidelines and Biological Exposure                    Guidelines.
+Indices (BEIs®) published by American Conference of
+Governmental Industrial Hygienists (ACGIH), 25 the United
+States National Institute for Occupational Health and Safety
+(NIOSH),26 Permissible Exposure Limits (PELs) published by the
+Occupational Safety and Health Administration of the United
+States (OSHA),27 Indicative Occupational Exposure Limit Values
+published by European Union member states, 28 or other similar
+sources.
+
+
+Accident and Fatality Rates
+Projects should try to reduce the number of accidents among
+project workers (whether directly employed or subcontracted) to
+a rate of zero, especially accidents that could result in lost work
+time, different levels of disability, or even fatalities. Facility rates
+may be benchmarked against the performance of facilities in this
+sector in developed countries through consultation with
+published sources (e.g. US Bureau of Labor Statistics and UK
+Health and Safety Executive)29.
+
+
+Occupational Health and Safety Monitoring
+The working environment should be monitored for occupational
+hazards relevant to the specific project. Monitoring should be
+
+
+
+
+25 http://www.acgih.org/TLV/
+26 http://www.cdc.gov/niosh/npg/
+27
+
+http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDAR
+DS&p_id=9992                                                                30Credential professionals may include Certified Industrial Hygienists,
+28 http://europe.osha.eu.int/good_practice/risks/ds/oel/                    Registered Occupational Hygienists, or Certified Safety Professionals or their
+29 http://www.bls.gov/iif/ and http://www.hse.gov.uk/statistics/index.htm   equiv alent.
+
+
+DECEMBER 10, 2007                                                                                                                                   15
+                        Environmental, Health, and Safety Guidelines
+                        PULP AND PAPER MILLS
+
+                                                                                 WORLD BANK GROUP
+
+
+
+3.0         References and Additional Sources
+Allan M. Springer, Ed.: Industrial Environmental Control – Pulp and Paper
+Industry, 3rd edition, Tappi Press, Atlanta, Ga., 2000
+
+Environment Canada. 2004. Regulations Amending the Pulp and Paper Effluent
+Regulations [embedding the Environmental Effects Monitoring requirements
+under Schedule IV]. Published in Part II of the Canada Gazette on May 19,
+2004.
+
+European Commission. 2001. Integrated Pollution Prevention and Control
+(IPPC) Reference Document on Best Available Techniques in the Pulp and
+Paper Industry. December 2001.
+
+Finnish Environment Institute, A Strategic Concept for Best Available
+Techniques in the Forest Industry, 2001, URL:
+http://www.ymparisto.fi/download.asp?contentid=10759&lan=en
+
+Finnish Environment Institute, Continuum - Rethinking BAT Emissions of the
+Pulp and Paper Industry in the European Union, 2007. URL:
+http://www.environment.fi/download.asp?contentid=65130&lan=en
+
+International Labour Organization, Encyclopaedia of Occupational Health and
+Safety, 4th Edition, Chapter 72, Pulp and Paper Industry, Occupational Hazards
+and Controls.
+
+Oregon Administrative Rule (OAR) 437-02-312
+
+Peter N. Williamson, Ed., Patti Turner, Techn. Ed.: Water Use and Reduction in
+the Pulp and Paper Industry – A Monograph, Canadian Pulp and Paper
+Association, 1994
+
+Swedish Paper Industry’s Council for Development of Occupational Health and
+Safety (2005).
+
+United Nations Environment Programme (UNEP), 2006. Revised edited draft
+guidelines on best available techniques and guidance on best environmental
+practices relevant to Article 5 and Annex C of the Stockholm Convention on
+Persistent Organic Pollutants. Expert Group on Best Available Techniques and
+Best Environmental Practices.
+
+US EPA: Final Pulp, Paper, and Paperboard “Cluster Rule”.
+
+U.S. Occupational Health Administration regulations for Pulp, Paper, and
+Paperboard Mills, 29 Code of Federal Regulations (CFR) 1910.261
+
+U.S. EPA. 2002. Sector Notebook Project, Profile of the Pulp and Paper
+Industry, 2nd Edition. EPA/310-R-02-002. November 2002
+http://www.epa.gov/compliance/resources/publications/assistance/sectors/noteb
+ooks/pulp.html
+
+
+
+
+DECEMBER 10, 2007                                                                         16
+                        Environmental, Health, and Safety Guidelines
+                        PULP AND PAPER MILLS
+
+                                                                                                                                  WORLD BANK GROUP
+
+
+
+Annex A: General Description of Industry Activities
+The main steps in pulp and paper manufacturing are: (a) raw                     debarking processes, which have substantially been abandoned
+material preparation (such as debarking and chipping wood), (b)                 by the industry generate wastewater that contains nutrients,
+pulp manufacturing, (c) pulp bleaching, and (d) paper                           fiber, and oxygen-consuming organic compounds such as resin
+manufacturing, which are described below. Pulp mills and paper                  acids, fatty acids, etc.
+mills may exist separately or as integrated operations.
+                                                                                Certain mechanical pulping processes, such as stone
+
+Raw Material Preparation                            31                          groundwood pulping, use roundwood; however, the majority of
+                                                                                pulping operations require wood chips. A uniform chip size
+Wood is the predominant source of cellulose fiber for paper
+                                                                                (typically 20 mm long in the grain direction and 4 mm thick) is
+products, although other fiber sources, such as straw, bagasse,
+                                                                                necessary for the efficiency of the processes and for the quality
+and bamboo, are used in areas with limited access to forest
+                                                                                of the pulp. The chips are then put on a set of vibrating screens
+resources, especially in developing countries. Some non-wood
+                                                                                to remove those that are too large or small. Large chips stay on
+plants, such as abaca, cotton, and hemp, are used as the
+                                                                                the top screens and are sent to be re-cut, while the smaller
+source of fiber for specialty applications.
+                                                                                chips are usually burned with the bark or may be sold for other
+                                                                                purposes.
+Wood used to make pulp can arrive at the mill in a variety of
+forms including wood logs, chips, and sawdust. In the case of
+                                                                                Non-wood fibers are handled in ways specific to their
+roundwood (logs), the logs are cut to manageable size and then
+                                                                                composition in order to minimize degradation of the fibers and
+debarked. At pulp mills integrated with lumbering facilities,
+                                                                                thus maximize pulp yield. Non-wood raw materials are usually
+acceptable lumber wood is removed at this stage. At these
+                                                                                managed in bales.
+facilities, any residual or waste wood from lumber processing is
+returned to the chipping process; in-house lumbering rejects can
+                                                                                Pulping Processes
+be a significant source of wood at such facilities.
+                                                                                Raw plant material primarily comprises cellulose fibers,
+The bark of those logs not fit for lumber is usually removed                    hemicelluloses, and lignin, a natural binding material that holds
+mechanically (in a drum debarker) in order to prevent                           together cellulose fibers in wood or in the stalks of plants. In the
+contamination of pulping operations32. Depending on the                         pulping process, the raw cellulose-bearing material (raw plant
+moisture content of the bark, it may then be burned for energy                  material or recycled paper) is broken down into its individual
+production. If not burned for energy production, bark can be                    fibers, known as pulp. Pulping processes are generally
+used for mulch, ground cover, or to make charcoal. Wet                          categorized as chemical and mechanical. Chemical pulping
+                                                                                relies mainly on chemical reactants and heat energy to soften
+                                                                                and dissolve lignin in wood chips, followed by mechanical
+31 Information adapted from U.S. EPA, Sector Notebook Project, Profile of the
+Pulp and Paper Industry, 2nd Edition, EPA/310-R-02-002, November 2002.          refining to separate the fibers. Mechanical pulping often
+32 Hydraulic debarking which uses high-powered water jets is considered
+
+obsolete and environmentally undesirable due to the high levels of BOD          involves some pretreatment of wood with steam heat and/or
+generated in the effluent.
+
+
+DECEMBER 10, 2007                                                                                                                           17
+                       Environmental, Health, and Safety Guidelines
+                       PULP AND PAPER MILLS
+
+                                                                                                                              WORLD BANK GROUP
+
+
+weak chemical solution, but relies primarily on mechanical                  under elevated temperature and elevated pressure, freeing the
+equipment to reduce wood into fibrous material by abrasive                  cellulose fibers (pulp). Following digestion, the resulting black
+refining or grinding. Different pulping processes result in pulp            liquor, which contains dissolved organic substances, is
+with specific properties suited for different end uses.                     separated from the pulp, called brown stock. The brown stock is
+                                                                            treated with oxygen in the presence of sodium hydroxide to
+Wood-Based Chemical Pulping                                                 remove some of the residual lignin in a process referred to as
+
+Principal chemical pulping processes include the alkaline sulfate           oxygen delignification. The brown stock is then bleached, as
+
+(or Kraft) pulping process, acid sulfite, and semi-chemical                 described below, to achieve desired brightness, strength, and
+
+pulping. Kraft pulping represents approximately 80% of current              purity of the final pulp product.
+
+pulp production worldwide and virtually all new construction.
+                                                                            The chemical feedstocks are recovered in what is referred to as
+Compared with mechanical pulping processes, Kraft and sulfite
+                                                                            the liquor cycle. Black liquor is typically concentrated by
+pulps usually have higher market value and have higher costs of
+                                                                            evaporation of water and then burned in a recovery furnace,
+production. Their fiber quality is better for most purposes, with
+                                                                            which destroys the organic constituents and generates heat
+generally less lignin or other wood constituents and
+                                                                            used to make steam for other facility uses. Smelt, a molten salt
+proportionately more cellulose fiber and more intact fibers. Kraft
+                                                                            mixture consisting principally of sodium carbonate (Na2CO3) and
+and sulfite pulps can be more readily bleached to yield high
+                                                                            sodium sulfide, is formed at the bottom of the recovery boiler,
+brightness or whiteness that is desirable in many paper
+                                                                            and is dissolved in an aqueous solution, forming green liquor. In
+products, and Kraft pulp typically produces a stronger sheet of
+                                                                            the causticizer, lime (CaO) is added to the green liquor, which
+paper or paperboard than other pulping processes.
+                                                                            converts sodium carbonate back to sodium hydroxide, forming
+                                                                            white liquor, which is used again in the digesters. Lime mud,
+Kraft Pulping
+                                                                            principally comprising calcium carbonate (CaCO3), is also
+The Kraft pulping method accounts for approximately 80 percent
+                                                                            generated in the causticizer. The lime mud is converted back
+of world pulp production. 33 Kraft pulping has become the
+                                                                            into lime by heating in the lime kiln.
+dominant chemical pulping method because of better fiber
+strength compared to sulfite pulping, its applicability to all wood
+                                                                            Liquid streams from the Kraft pulping process are mostly re-
+species, and the ability to recover chemical feedstocks
+                                                                            used in the pulping operations or, in the case of bleached pulp,
+efficiently.
+                                                                            in the bleach plant. Liquid effluents from brownstock
+                                                                            preparation should be limited to small amounts of condensates
+In the Kraft pulping process, wood chips are combined in a
+                                                                            and spills. Gaseous emissions include sulfur dioxide, hydrogen
+digester with white liquor, an aqueous solution comprising
+                                                                            sulfide and other reduced sulfur compounds, nitrogen oxides,
+principally sodium sulfide (Na2S) and sodium hydroxide (NaOH),
+                                                                            and particulate matter.
+which breaks down lignin and, to a lesser extent, hemicelluloses
+
+                                                                            A typical Kraft pulping process (including bleaching processes,
+33European Commission, Integrated Pollution Prevention and Control (IPPC)   discussed below) is shown in Figure 1.
+Reference Document on Best Available Techniques in the Pulp and Paper
+Industry , December 2001.
+
+
+DECEMBER 10, 2007                                                                                                                         18
+                                   Environmental, Health, and Safety Guidelines
+                                   PULP AND PAPER MILLS
+
+                                                                                                                                                                                     WORLD BANK GROUP
+
+
+Figure 1. The Kraft pulp manufacturing process                                                                                    for new construction. Use of sodium base and ammonium base
+ Roundwood and
+ sawmill chips
+                                                                                                                                  has largely been discontinued because of higher costs.
+                  Wood yard                                                                                        Chemically
+                                                                                                                  treated water   Although calcium base is relatively inexpensive, the cooking
+                                                                                      Stea
+                                                                                      m
+                                                                                                                                  chemicals cannot be recovered and are discharged; therefore, it
+                                                  Bark and fines                                                 Feed water
+                 Wood handling                                                     Bark boiler
+                                                                                                                                  is generally not used in new installations.
+                                                                                                                 treatment
+
+                                                                                      Steam
+         Knots                      Black
+                                    liquor                              Black
+                                                                        liquor
+                                                                                                                                  Sulfite pulps are easier to bleach than Kraft pulps, which permits
+                     Cooking                     Evaporation                     Recovery boiler
+
+
+                                          WL                                              Smelt
+                                                                                                                                  TCF bleaching (see Bleaching, below), and sulfite pulping
+                  Brown-stock                      Stripping                      Green liquor
+                   screening
+                                                                                                                                  produces fewer malodorous gases and has a higher material
+                                               (condensate treatment)
+
+                                                           Cleaned
+                                                           condensate
+
+                  Brown-stock
+                                                                                                        Burnt
+                                                                                                        lime                      yield than Kraft pulping. However, because of weaker fiber and
+                    washing                      White liquor                     Causticizing                  Lime reburning
+                                                                                                                                  poor recovery technology (apart from magnesium base), the
+                                                                                                     Lime
+                                                                                                     mud
+                                                                                                       Concentrated Fuel oil
+                    Oxygen           Ox WL       White liquor
+                                                                                                   malodorous gases               sulfite process has not been competitive and has often resulted
+                 delignification                  oxidation
+                                                                                                                                  in more water effluents. Other significant limitations of this
+                  Post-oxygen                       Oxygen                       Liquid oxygen or air                             process include its much higher net energy consumption than
+                    washing                       preparation
+ Water
+                                                                                                                                  the kraft process as well as limitations on the use of certain
+                                                                                     Raw materials                 River water
+
+ Water             Bleaching
+                                               Bleaching chem.
+                                                 preparation
+                                                                                     and chemicals                                wood species (e.g. pine wood), which limits the raw material
+                                                                                                                 Fresh water      base. For th ese reasons, most major new chemical pulping
+                                                                                                                  treatment
+
+                  Pulp drying                       Storage                                                                       investments use the Kraft process.
+                                                                                                        Mechanically
+                                                                                                        cleaned water
+
+
+   Process steam
+                            Turbine
+                                                HP steam
+                                                                  Bark boiler
+                                                                                                        Chemically
+                                                                                                        cleaned water             Semi-Chemical Pulping
+                                                                                                            Fire water            In semi-chemical pulping, wood chips are partially digested to
+
+                                                              Recovery boiler
+                                                                                                        Potable water             weaken the bonds between fibers, and then the chips are then
+  LP     MP 1 MP 2             Electric
+                               power
+                                                                                                                                  mechanically treated in a refiner, which uses mechanical action
+                                                                                                                                  to separate the fibers. Semi- mechanical pulping produces pulp
+                                                                                                                                  with high stiffness that is commonly used in manufacture of
+                                                                                                                                  corrugated board. The most common semi-chemical pulping
+                                                                                                                                  process is the neutral sulfite semi-chemical (NSSC) process.
+                                                                                                                                  Other semi-chemical pulping processes in use include alkaline
+Sulfite Pulping
+                                                                                                                                  cooking with sodium hydroxide liquor (soda cooking) or modified
+The sulfite cooking process is based on the use of aqueous
+                                                                                                                                  sulfate liquor.
+sulfur dioxide and a base. The base used affects the process
+conditions, chemical and energy recovery, water use, and
+                                                                                                                                  The yield of semi-chemical pulping ranges from 55 to 90
+properties of the pulp. Calcium, sodium, magnesium, and
+                                                                                                                                  percent, depending on the process used; however, pulp residual
+ammonium have been used, although the dominant sulfite
+                                                                                                                                  lignin content is also high, so bleaching is more difficult than for
+pulping process is magnesium sulfite pulping and the calcium
+                                                                                                                                  Kraft and sulfite chemical pulps. Because the process
+sulfite process is now considered environmentally unacceptable
+
+DECEMBER 10, 2007                                                                                                                                                                              19
+                     Environmental, Health, and Safety Guidelines
+                     PULP AND PAPER MILLS
+
+                                                                                                                        WORLD BANK GROUP
+
+
+conditions are less severe than for Kraft and sulfite chemical       Thermo-mechanical Pulping (TMP)
+pulp and because semi-chemical pulps are generally not               Wood chips are usually washed before thermo- mechanical
+bleached, the processes are relatively straightforward. In           pulping to remove stones, sand, scrap metal or other hard
+addition, lesser amounts of chemicals are needed for semi-           debris that may cause wear or damage to the refiner plates.
+chemical pulping compared with Kraft and sulfite chemical            The washed and screened chips are preheated with steam and
+pulping.                                                             then refined either in a single stage at an elevated temperature
+                                                                     and pressure or in a two-stage refining system in which the first
+Because the cooking liquors from semi-chemical pulping contain
+                                                                     stage is followed by a second refining stage under pressure or
+lower concentrations of organic substances than those from
+                                                                     at atmospheric pressure. The pulping of screen rejects is often
+Kraft and sulfite processes, chemical recovery is more costly,
+                                                                     carried out in the second stage refiner. The application of more
+and some semi-chemical pulping mills treat and discharge the         mechanical energy instead of chemical dissolution results in
+spent liquor with no recovery of the process chemicals. Since
+                                                                     more pronounced fiber fragmentation and formation of fine
+the efficiency of the recovery process is lower, untreated
+                                                                     material. TMP pulp is most often used for newsprint.
+wastewater from semi-chemical mills tend to be more highly
+concentrated than those from kraft mills.                            Much of the comparatively high amount of electrical energy
+                                                                     required in refiner mechanical pulping is converted into heat as
+Wood-Based Mechanical Pulping                                        steam that is evaporated from wood moisture and dilution water
+
+Mechanical pulping processes include thermo- mechanical              in the refiners. Because of the pressurized conditions (pressure
+
+pulping (TMP), chemi- thermomechanical pulping (CTMP), and           up to 5 bars above atmospheric), a significant amount of the
+
+groundwood pulping, as well as other variations. The TMP and         steam generated may be recovered and used to produce clean
+
+CTMP processes involve reduction of wood chips into pulp in          process steam (e. g., for use in paper drying). Part of the
+
+mechanical disk refiners, usually after pretreatment of chips with   energy may also be recovered as hot water.
+
+steam and/or weak chemical solutions. The older groundwood
+                                                                     Fresh wood is preferred as raw material. If the wood for thermo-
+process involves grinding of wood bolts (small logs) into pulp
+                                                                     mechanical pulping is stored, it is usually stored in water or
+against a grindstone.
+                                                                     sprinkled with water to prevent drying. Thus, water collection
+
+Mechanical pulping gives high yields, but the mechanical             systems may be required in the wood yard to avoid discharge of
+
+disintegration requires high amounts of electric energy in the       water containing organic substances. Part of the organic
+
+refining processes. Mechanical pulps are usually used for            substances of the wood is dissolved in water and discharged
+
+printing and writing papers where high opacity and good ink          from the pulping process. However, because the wood loss
+
+absorption are needed and for some paperboards where higher          during the TMP manufacturing is very low and most of the wood
+
+bulk and cheaper pulps are preferred. CTMP may be used for           material is converted into pulp, the heat value of the wastewater
+
+tissue and fluff pulps as well.                                      in a TMP mill is too low to be recovered in the same way as in a
+                                                                     chemi cal pulp mill (e.g., black liquor). Therefore, effluent
+                                                                     treatment is necessary at a TMP mill.
+
+
+DECEMBER 10, 2007                                                                                                                    20
+                     Environmental, Health, and Safety Guidelines
+                     PULP AND PAPER MILLS
+
+                                                                                                                               WORLD BANK GROUP
+
+
+Chemi-thermo-mechanical Pulping (CTMP)                               dissipate heat, reduce friction, and transport the fibers to the
+The CTMP process combines the TMP process with a chemical            next process stages.
+impregnation of the wood chips. Washed and screened wood
+                                                                     In the Pressure Grinding Process (PGW), the grinding process
+chips are immersed in an alkaline chemical solution in an
+                                                                     takes place at overpressure (up to around 3 bar), which allows
+impregnation tower. Sodium sulphite (Na2SO3) is primarily used
+                                                                     the process to be operated at higher temperatures. The higher
+for softwoods, and alkaline peroxide has been predominantly
+                                                                     temperatures result in more intensive softening of lignin and
+used for hardwoods. After chemical impregnation, the chips are
+                                                                     improved pulp qualities (e.g., higher strength), but the technical
+pre-warmed, and their temperature increases further in the first
+                                                                     and financial requirements are considerably greater. Low-
+to second stages of subsequent refining. For similar reasons as
+                                                                     pressure steam is generated when the pulp is depressurized.
+TMP, CTMP is often integrated with a paper or board mill;
+however, CTMP is also manufactured as market pulp.                   The recovered low-pressure steam is usually used for the
+                                                                     production of warm process water.
+The combination of heat and chemicals softens the lignin and
+                                                                     A relatively inexpensive method to improve the quality of
+facilitates the release of the cellulose fiber s, making pulp with
+                                                                     groundwood is the thermogrinding process (TGW). In this
+increased strength and stiffness, but also resulting in lower
+                                                                     process, the heat losses which result from evaporation in the
+yields and, as a consequence, generation of more pollutants
+                                                                     grinding zone are reduced and the process temperature is
+relative to TMP. As with TMP, the process waters can be
+                                                                     optimized with stability controllers instead of increased pressure.
+recovered economically, and residuals discharged after
+treatment.
+                                                                     Recycled Fiber Pulping (RCF)
+CTMP was originally applied mainly on spruce wood, but is now        Recovered paper has become an increasingly important source
+applied also on hardwoods with low density, such as aspen.           of fiber for papermaking. Currently, nearly 50 percent of the
+CTMP is used for tissue, paperboard and fluff pulps, but the         fiber raw material for papermaking is based on recycled fiber. 34
+aspen grades are also used in increasing amounts for printing        In the recycling process, recycled paper or paperboard is
+and writing grades with lower fiber costs than for chemical          rewetted and reduced to pulp, principally by mechanical means.
+pulps.                                                               Inks, adhesives, and other contaminants may be removed by
+                                                                     chemical deinking and mechanical separation. Because the
+Groundwood Pulping
+                                                                     fibers in recycled paper and paperboard have been fully dried
+In groundwood pulping, the initial defibration takes place in
+                                                                     and then rewetted, they generally have different physical
+grinders by forcing logs against special rotating grinding stones
+                                                                     properties than virgin wood pulp fibers. In some cases, mills
+with the wood fibers parallel to the axis of a stone. Most of the
+                                                                     using recycled paper, without deinking, can operate without any
+energy put into the grinding process is transformed into heat,
+                                                                     effluent discharge due to the use of closed water cycles together
+which helps to soften the lignin bonds and release the cellulose
+                                                                     with small anaerobic or aerobic biological treatment systems to
+fibers. A shower of water over the grinding stones is used to
+
+                                                                     34U.S. EPA, Sector Notebook Project, Profile of the Pulp and Paper Industry,
+                                                                     2nd Edition, EPA/310-R-02-002, November 2002.
+
+
+DECEMBER 10, 2007                                                                                                                          21
+                    Environmental, Health, and Safety Guidelines
+                    PULP AND PAPER MILLS
+
+                                                                                                                       WORLD BANK GROUP
+
+
+remove some dissolved organics from the recycled waters. The         thus pulp is produced almost exclusively from wood fiber in most
+closed cycle processes are practical where the product can           regions of the world. However, substantial quantities of non-
+tolerate a certain degree of dirt and contamination, as in some      wood pulp are produced, especially in regions of Asia and Africa
+packaging and construction paper grades. In some recycle             where wood fiber is relatively less abundant and non-wood
+plants, approximately 30 to 40% of the raw material processed        fibers are available.
+results in sludge that requires management as a solid waste.
+                                                                     Bagasse, Straw, Reeds, etc.
+Without Deinking                                                     Most non-wood fibers are relatively short, similar to fibers
+Processing of recovered paper without deinking is sufficient for     derived from hardwood, and therefore are suited to similar
+applications that do not require high brightness, such as            applications, such as writing paper. However, non-wood fibers
+corrugated board, carton board, and some tissue.                     are often used for other grades as well, such as newsprint and
+                                                                     corrugated board, simply because local wood is not available for
+With Deinking                                                        pulping.
+Deinking processes are used to remove ink to make the pulp
+brighter and cleaner. Sometimes bleaching is also applied after      Non-wood species normally cook more readily than wood chips.
+
+deinking. Recycled fiber with deinking is used for applications      Thus, Kraft cooking is normally replaced with soda cooking
+
+requiring higher brightn ess, such as newsprint, magazine paper,     (sodium hydroxide only), and the charge is usually less. The
+
+and tissue.                                                          spent liquors usually have lower concentrations of dissolved
+                                                                     organics and process chemicals compared with chemical
+Process waters are similar to those from systems without             pulping of wood, thus increasing the cost of chemical recovery.
+deinking. However, deinking results in lower yields and requires     In addition, non-wood pulping plants are normally small, typically
+additional internal treatment. The pulp yield may be as low as 60    producing less than 100,000 t/yr of pulp, and therefore lack the
+to 70 percent of the recovered paper entering the process;           economies of scale that make environmental investments
+therefore, as much as 30 to 40 percent of the entering material      economical at larger facilities. As a result, many non-wood mills
+may enter the white water and need to be treated and removed         have limited or no recovery of chemicals and have substantially
+before discharge of the wastewater.                                  higher waste emissions per ton of product than modern Kraft
+                                                                     mills.
+Pulping Based on Non-Wood Raw Materials
+                                                                     Non-wood plants normally contain higher amounts of silica than
+Worldwide, non-wood sources make up about six percent of the
+                                                                     wood. Silica causes problems in chemical recovery and also
+total fiber supply for papermaking. Non-wood fibers are derived
+                                                                     adversely affects paper quality. In particular, silica increases
+from agricultural fibers such as straw and other plant fibers such
+                                                                     scaling in the liquor evaporators and reduces the efficiency of
+as bamboo, bagasse (residual of sugarcane refining), and
+                                                                     both the causticizing operation and conversion of lime mud
+annual fiber crops such as kenaf. In general, non-wood plant
+                                                                     (calcium carbonate) to calcium oxide (burnt lime) in the lime kiln.
+fibers are more costly to collect and process than wood fiber in
+                                                                     To counter these affects, non-wood pulping facilities generally
+regions of the world where wood supplies are adequate, and
+
+
+DECEMBER 10, 2007                                                                                                                   22
+                     Environmental, Health, and Safety Guidelines
+                     PULP AND PAPER MILLS
+
+                                                                                                                         WORLD BANK GROUP
+
+
+discharge higher proportions of lime mud and purchase higher           treatment. Effluents from the bleach plant cannot easily be
+amounts of lime or limestone as make-up.                               recirculated into the chemicals recovery mainly because they
+                                                                       would increase the build-up of chlorides and other unwanted
+Cotton and Other Long Fibers                                           inorganic elements in the chemical recovery system, which can
+Certain non-wood fibers have special and valuable properties           cause corrosion, scaling, and other problems.
+for specialty products. For example, cotton linters, hemp, flax,
+and abaca fibers are long and useful for products such as              Chemical Pulp
+document papers with water marks, security papers, banknote
+                                                                       The chemicals most commonly used in chemical pulp bleaching
+paper, tea bags, etc. The production of these specialty products
+                                                                       plants are sodium hydroxide, chlorine dioxide, oxygen, ozone,
+is small and, therefore, is of limited concern in terms of potential
+                                                                       and hydrogen peroxide. Peracetic acid has recently become
+environmental impact.
+                                                                       commercially available as a bleaching chemical. Chlorine and
+                                                                       hypochlorite have largely been phased out as primary bleaching
+Bleaching
+                                                                       chemicals over recent years. Small amounts of chlorine are
+Bleaching is any process that chemically alters pulp to increase       formed as a by-product in most of the chlorine dioxide
+its brightness. Bleached pulps create papers that are whiter,          generation systems, and at least part of this chlorine will be
+brighter, softer, and more absorbent than unbleached pulps.            present when chlorine dioxide is used in bleaching. Chlorine
+Bleached pulps are used for products where high purity is              dioxide and ozone have to be produced on site. Peroxide,
+required and yellowing is not desired (e.g. printing and writing       oxygen, and alkali can be delivered to the mills. Ozone is a very
+papers). Unbleached pulp is typically used to produce                  reactive bleaching agent, while chlorine dioxide, oxygen, and
+boxboard, linerboard, and grocery bags.                                hydrogen peroxide are less reactive.
+
+
+Any type of pulp may be bleached, but the type(s) of fiber and         The introduction of extended cooking and oxygen delignification
+pulping processes used, as well as the desired qualities and end       have resulted in more efficient recovery of organic substances
+use of the final product, greatly affect the type and degree of        and allowed development of and use of chemicals other than
+pulp bleaching possible. The lignin content of a pulp is the           chlorine in bleaching, thereby significantly reducing the total
+major determinant of its bleaching potential. Pulps with high          amount of organic compounds and total amount of chlorinated
+lignin content (e.g., mechanical or semi-chemical) are difficult to    organic compounds generated during bleaching. Enzyme
+bleach fu lly and require heavy chemical inputs. Excessive             treatment before bleaching can also enhance the effectiveness
+bleaching of mechanical and semi-chemical pulps results in loss        of the bleaching chemicals used but typically results in a small
+of pulp yield due to fiber destruction. Chemical pulps can be          loss of yield.
+bleached to a greater extent due to their low (10 percent) lignin
+content.                                                               A bleach plant consists of a sequence of typically four to five
+                                                                       separate bleaching stages. Different chemicals are added at
+Whereas delignification can be carried out within closed water         each stage, and acid and alkali stages are usually alternated.
+systems, bleach plants tend to discharge effluent to external          Each bleaching stage consists of devices for mixing the
+
+
+DECEMBER 10, 2007                                                                                                                  23
+                    Environmental, Health, and Safety Guidelines
+                    PULP AND PAPER MILLS
+
+                                                                                                                      WORLD BANK GROUP
+
+
+chemicals and the pulp, a bleaching reactor designed with a         results in only a minimal reduction in yield. Residual dithionite in
+suitable residence time for chemical reactions, and washing         the pulp can cause corrosion of metallic components
+equipment for separation of used chemicals and removal of           downstream in the process. In mo st mills a metal chelating
+lignin and other dissolved materials from the pulp.                 agent (e.g. EDTA, DTPA) is used to prevent degradation of the
+                                                                    dithionite.
+The two main types of bleaching methods in use are ECF
+(Elemental Chlorine Free--no molecular or gaseous chlorine is       Oxidative bleaching uses hydrogen peroxide (H2O2). Peroxide
+dosed in the bleaching) and TCF (Totally Chlorine Free)             bleaching results in an approximately 2 percent reduction in
+bleaching. ECF bleaching uses chlorine dioxide, alkali for the      yield, mainly due to the alkalinity during the bleaching that
+extraction of dissolved lignin, and peroxide and oxygen for the     results in some dissolution of organic substances in the wood
+reinforcement of the extraction stages. TCF bleaching uses          (and in an increase of pollution load). Peroxide bleaching also
+oxygen, ozone or peracetic acid, and peroxide with alkali for       improves the strength and water uptake capacity of the pulp.
+lignin extraction. Both ECF and TCF bleaching are used at Kraft     The bleaching process results in lower brightness in the
+mills, although ECF is the more common.                             presence of heavy metal ions; therefore, chelating agents (e.g.
+                                                                    EDTA, DTPA) are usually added before bleaching to form
+Mechanical Pulp                                                     complexes with heavy metals (e.g., Fe, Mn, Cu, Cr), which
+
+Bleaching of mechanical pulp is based on lignin-saving methods      prevents the pulp from discoloring and the peroxide from
+
+and is fundamentally different from bleaching of chemical pulps,    decomposing. EDTA and DTPA contain nitrogen, which enters
+
+which is based on removal of lignin. The bleaching of               the wastewater. Introduction of a washing stage between
+
+mechanical pulp changes chromophoric groups of lignin               pulping and bleaching is effective in reducing the problematic
+
+polymers into a colorless form. Thus, the bleaching of              metals and can thus reduce the amount of chelating agent
+
+mechanical pulp increases primarily the brightness of the pulp      needed and improve the effectiveness of the applied peroxide.
+
+with minimum losses of dry solids and overall yield. The effect     The bleached pulp is acidified with sulfuric acid or sulfur dioxide
+
+is not permanent, and the paper yellows with time. As it does       to a pH of 5 - 6.
+
+not result in permanent brightness gain, bleached mechanical
+pulp is more suitable for newsprint and magazine paper than for     Papermaking
+books or archive papers.                                            After pulping (and bleaching, if applicable), the finished pulp is
+                                                                    processed into the stock used for paper manufacture. Market
+The lignin- saving bleaching is carried out in one to two stages,
+                                                                    pulp, which is to be shipped off-site to paper or paperboard
+depending on the final brightness requirements of the pulp. The
+                                                                    mills, is simply dried and baled during this step. Processing of
+bleaching stages are distinguished according to the bleaching
+                                                                    pulp in integrated mills includes pulp blending specific to the
+agent applied.
+                                                                    desired paper product desired, dispersion in water, beati ng and
+
+Reductive bleaching uses sodium dithionite (Na2S203), which         refining to add density and strength, and addition of any
+                                                                    necessary wet additives. Wet additives are used to create
+does not dissolve organic material from the pulp, and therefore
+
+
+DECEMBER 10, 2007                                                                                                                24
+                     Environmental, Health, and Safety Guidelines
+                     PULP AND PAPER MILLS
+
+                                                                     WORLD BANK GROUP
+
+
+paper products with special properties or to facilitate the
+papermaking process. Wet additives include resins and waxes
+for water repellency; fillers such as clays, silicas, and talc;
+inorganic and organic dyes for coloring; and certain inorganic
+chemicals (e.g., calcium sulfate, zinc sulfide, and titanium
+dioxide) for improved texture, print quality, opacity, and
+brightness.
+
+
+The processed pulp is converted into a paper product via a
+paper production machine, traditionally a Fourdrinier type
+machine, but increasingly using proprietary twin-wire systems.
+In paper machines, the fiber slurry is deposited on a moving
+wire belt that carries it through the first stages of the process.
+Water is removed by gravity, vacuum chambers, and vacuum
+rolls. This excess water is recycled to the fiber recovery step of
+the process due to its high fiber content. The continuous sheet
+is then pressed between a series of cylinders to remove more
+water and compress the fibers.
+
+
+After pressing, the sheet enters a drying section, where the
+paper fibers begin to bond together as steam heated cylinders
+compress the sheets. In the calender process, the sheet is
+pressed between heavy rolls to reduce paper thickness and
+produce a smooth surface. Coatings can be applied to the
+paper at this point to improve gloss, color, printing detail, and
+brilliance. Lighter coatings are applied on- machine, while heavy
+coatings are performed off-machine. The paper product is then
+spooled for storage.
+
+
+
+
+DECEMBER 10, 2007                                                             25
+                 Environmental, Health, and Safety Guidelines
+                 PULP AND PAPER MILLS
+
+                                                                                            WORLD BANK GROUP
+
+
+
+
+Annex B - Effluents and Emissions Guidelines / Resource Use
+Benchmarks
+
+
+Table 1 (a)—Effluent Guidelines for Pulp       Table 1 (b)—Effluent Guidelines for Pulp
+and Paper Facilities--Bleached Kraft         and Paper Facilities--Unbleached Kraft Pulp,
+Pulp, Integrated                                               Integrated
+    Parameter          Units     Guideline        Parameter          Units      Guideline
+
+      Flow a           m 3/ADt      50              Flow a           m 3/ADt       25
+
+        pH                         6 –9               pH                          6 –9
+
+       TSS             kg/ADt       1.5              TSS             kg/ADt        1.0
+
+       COD             kg/ADt       20               COD             kg/ADt        10
+
+       BOD5            kg/ADt        1              BOD5             kg/ADt        0.7
+
+       AOX             kg/ADt      0.25             Total N          kg/ADt        0.2
+
+      Total N          kg/ADt       0.2b            Total P          kg/ADt       0.02
+
+      Total P          kg/ADt       0.03
+
+
+
+  Table 1 (c)—Effluent Guidelines for
+Sulfite Pulp and Paper Facilities—Sulfite    Table 1 (d)—Effluent Guidelines for CTMP
+  Pulp, Integrated and Non-Integrated                         Facilities
+                                                   Parameter           Units    Guideline
+     Parameter         Units     Guideline
+                                                     Flow a           m 3/ADt      20
+      Flow a          m 3/ADt       55d
+                                                      pH                          6 –9
+        pH                         6 –9
+                                                     TSS               kg/ADt      1.0
+       TSS            kg/ADt        2.0
+                                                     COD               kg/ADt       5
+      COD             kg/ADt        30c
+
+      BOD5            kg/ADt        2.0              BOD5              kg/ADt      1.0
+
+       AOX            kg/ADt       0.005
+
+      Total N         kg/ADt        0.5             Total N            kg/ADt      0.2
+
+      Total P         kg/ADt       0.05             Total P            kg/ADt      0.01
+
+
+
+
+DECEMBER 10, 2007                                                                                    26
+                 Environmental, Health, and Safety Guidelines
+                 PULP AND PAPER MILLS
+
+                                                                                               WORLD BANK GROUP
+
+
+
+
+Table 1 (e)—Effluent Guidelines for Pulp
+   and Paper Facilities—Mechanical              Table 1(f)—Effluent Guidelines for Pulp
+           Pulping, Integrated                   and Paper Facilities—Recycled Fiber,
+                                                     Without Deinking, Integrated
+    Parameter          Units     Guideline
+                                                    Parameter         Units      Guideline
+      Flow a          m 3/ADt       20
+                                                      Flow a          m 3/ADt       10
+        pH                         6 –9
+                                                        pH                         6 –9
+       TSS            kg/ADt        0.5
+                                                       TSS            kg/ADt       0.15
+       COD            kg/ADt        5.0
+                                                       COD            kg/ADt        1.5
+      BOD5            kg/ADt        0.5
+                                                       BOD5           kg/ADt       0.15
+
+       AOX            kg/ADt       0.01
+                                                       AOX            kg/ADt       0.005
+
+      Total N         kg/ADt        0.1               Total N         kg/ADt       0.05
+
+      Total P         kg/ADt       0.01               Total P         kg/ADt       0.005
+
+
+
+
+Table 1(g)—Effluent Guidelines for Pulp
+ and Paper Facilities—Recycled Fiber,         Table 1 (h)—Effluent Guidelines for Pulp and
+       With Deinking, Integrated              Paper Facilities—Recycled Fiber Tissue Mills
+                                 Guideline
+     Parameter          Units                      Parameter           Units       Guideline
+
+                                                     Flow a            m 3/ADt        25
+       Flow a          m 3/ADt       15
+                                                       pH                            6 –9
+        pH                          6 –9
+                                                      TSS              kg/ADt         0.4
+       TSS              kg/ADt      0.3
+                                                     COD               kg/ADt         4.0
+       COD              kg/ADt      4.0
+                                                     BOD5              kg/ADt         0.5
+       BOD5             kg/ADt      0.2
+                                                      AOX              kg/ADt        0.005
+       AOX              kg/ADt     0.005
+                                                     Total N           kg/ADt        0.25
+      Total N           kg/ADt      0.1
+                                                     Total P           kg/ADt        0.015
+      Total P           kg/ADt      0.01
+
+
+
+
+DECEMBER 10, 2007                                                                                       27
+                 Environmental, Health, and Safety Guidelines
+                 PULP AND PAPER MILLS
+
+                                                                                               WORLD BANK GROUP
+
+
+
+
+Table 1 ( i )—Effluent Guidelines for Pulp
+  and Paper Facilities—Uncoated Fine             Table 1( j )—Effluent Guidelines for Pulp
+                                                 and Paper Facilities—Coated Fine Paper
+                Paper Mills
+                                                                   Mills
+     Parameter          Units     Guideline
+                                                     Parameter           Units     Guideline
+       Flow a          m 3/ADt       15
+                                                       Flow a           m 3/ADt       15
+        pH                          6 –9
+                                                         pH                          6 –9
+       TSS             kg/ADt        0.4
+                                                        TSS             kg/ADt        0.4
+       COD             kg/ADt        2.0
+                                                       COD              kg/ADt        1.5
+       BOD5            kg/ADt       0.25
+                                                       BOD5             kg/ADt        0.25
+       AOX             kg/ADt       0.005               AOX             kg/ADt       0.005
+      Total N          kg/ADt        0.2              Total N           kg/ADt        0.2
+      Total P          kg/ADt       0.01              Total P           kg/ADt        0.01
+
+
+
+
+Table 1 (k)—Effluent Guidelines for Pulp       Table 1 (l)—Effluent Guidelines for Pulp and
+   and Paper Facilities—Tissue Mills            Paper Facilities—Fiber Preparation, Non-
+                                                                  Wood
+     Parameter          Units     Guideline         Parameter           Units      Guideline
+       Flow a          m 3/ADt      25 k              Flow a           m 3/ADt        50
+        pH                          6 –9
+                                                       pH                            6 –9
+       TSS             kg/ADt        0.4
+                                                      TSS               kg/ADt        2.0
+       COD             kg/ADt        1.5
+                                                      COD               kg/ADt        30
+       BOD5            kg/ADt        0.4
+                                                      BOD5              kg/ADt        2.0
+       AOX             kg/ADt       0.01
+                                                     Total N            kg/ADt        0.5
+      Total N          kg/ADt       0.25
+                                                     Total P            kg/ADt        0.05
+      Total P          kg/ADt       0.015
+
+
+
+
+DECEMBER 10, 2007                                                                                       28
+                          Environmental, Health, and Safety Guidelines
+                          PULP AND PAPER MILLS
+
+                                                                                  WORLD BANK GROUP
+
+
+Sources: European Commission. 2001. Integrated Pollution Prevention and
+Control (IPPC) Reference Document on Best Available Techniques in the Pulp
+
+and Paper Industry. December 2001; and U.S. EPA Effluent Guidelines for the
+Pulp, Paper, and Paperboard Point Source Category, 40 CFR Part 430.
+Notes:
+
+kg/ADt = kilograms of pollutant per 1,000 kg of air dry pulp
+a Cooling water and other clean water are discharged separately and are not
+included.
+
+b Any nitrogen discharge associated with the use of complexing agents should
+be added to the figure of tot -N.
+c Because of higher kappa number after cooking for magnefite process the BAT
+
+associated level is 35 kg COD/ADt.
+d Does not include process water from the paper mill in integrated sulfite pulp
+mills.
+
+
+
+
+DECEMBER 10, 2007                                                                          29
+                 Environmental, Health, and Safety Guidelines
+                 PULP AND PAPER MILLS
+
+                                                                                                                               WORLD BANK GROUP
+
+
+
+
+ Table 2—Emission Guidelines for Pulp and Paper
+                   Facilities
+
+                                                   Guideline
+    Parameter         Type of Mill        Units     Value
+
+
+
+       TSP           Kraft, bleached      kg/ADt      0.5      Sources: European Commission. 2001. Integrated Pollution Prevention and
+                          Kraft,                               Control (IPPC) Reference Document on Best Available Techniques in the Pulp
+                      unbleached—         kg/ADt      0.5
+                       Integrated                              and Paper Industry. December 2001; and U.S. EPA National Emission
+
+                                                               Standards for Hazardous Air Pollutants For Source Categories, 40 CFR Part 63.
+                    Sulfite, integrated
+                    and non-integrated    kg/ADt     0.15
+                                                               Notes:
+
+     SO2 as S        Kraft, bleached      kg/ADt      0.4      TSP= total suspended particulates
+
+                          Kraft,                               SO2 = sulfur dioxide
+                      unbleached—         kg/ADt      0.4      S = sulfur
+                       Integrated
+                                                               NO2 = nitrogen dioxide
+                    Sulfite, integrated
+                                          kg/ADt      1.0      N = nitrogen
+                    and non-integrated
+                                                               TRS = total reduced sulfur compounds
+                     Kraft, bleached                1.5 for
+                                                   hardwood    Kg/ADt = kilograms of pollut ant per 1,000 kg of air dry pulp
+                                                     pulp
+    NOx as NO2                            kg/ADt
+                                                    2.0 for
+                                                   softwood
+                                                     pulp
+
+                          Kraft,          kg/ADt    1.5 for
+                      unbleached—                  hardwood
+                       Integrated                    pulp
+                                                    2.0 for
+                                                   softwood
+                                                     pulp
+
+                    Sulfite, integrated   kg/ADt
+                                                      2.0
+                    and non-integrated
+
+     TRS as S        Kraft, bleached      kg/ADt      0.2
+
+                          Kraft,          kg/ADt
+                      unbleached—                     0.2
+                       Integrated
+
+
+
+
+DECEMBER 10, 2007                                                                                                                       30
+                           Environmental, Health, and Safety Guidelines
+                           PULP AND PAPER MILLS
+
+                                                                                                                                         WORLD BANK GROUP
+
+
+
+
+     Table 3—Energy and Water Consumption
+                                           Reported Ranges
+
+       Mill Type                 Water           Heat        Electrical    Source: European Commission. 2001. Integrated Pollution Prevention and
+                              Consumption       Energy        Energy
+                                                                           Control (IPPC) Reference Document on Best Available Techniques in the Pulp
+                                 (m3/t)a        (GJ/t)        (kWh/t)
+                                                                           and Paper Industry. December 2001
+ Kraft Pulping, bleached        20 – 100b        10 - 14     600 – 1200i
+                                                                           Notes:
+     Sulfite Pulping                                                       a. Clean cooling water is generally not reported as part of the water
+   (magnesium base)             40 - 100
+                                                                           consumption.
+  Mechanical Pulping--
+     Groundwood                  5 – 15                    1100 – 2200c    b. Reported quantities greater than about 50 m3/t probably include cooling
+                                                                           water.
+Mechanical Pulping--TMP          4 – 10                    1800 – 3600d
+                                                                           c. Approximately 20% of energy is recoverable as hot water.
+ Mechanical Pulping—
+                                 15 - 50                   1000 – 4300e    d. Approximately 20% of energy is recoverable as hot water, and about 40 –
+      CTMP
+                                                                           45% of energy is recoverable as steam.
+Recovered Paper Mill—
+  Uncoated Folding               2 – 10                                    e. Water consumption in tissue mills is highly dependent of the process
+     Boxboard
+                                                                           conditions (e.g., machine speed) and product (e.g., basis weight). Because of
+ Recovered Paper Mill—
+Coated Folding Boxboard          7 – 15                                    the low basis weight of the product, water consumption per ton of product can
+
+                                                                           be higher than for other types of paper mills.
+Recovered Paper Mill—
+Corrugated Medium and           1.5 – 10                                   f. For RCF based tissue; includes RCF processing
+   Packaging Paper
+                                                                           g. May include water used in pulp processing
+Recovered Paper Mill—                                                      h. Includes water used in pulp processing.
+     Newsprint                  10 – 20
+                                                                           i. Modern bleached kraft mills are net exporters of electricity typically generating
+Recovered Paper Mill—
+       Tissue                   5 – 100c                                   about 30% more than they consume by burning black liquor and bark.
+
+Recovered Paper Mill—
+ Writing and Printing            7 - 20
+        Paper
+
+   Paper Mill—Tissue            10 – 50f                     500 – 3000
+
+Paper Mill—Printing and
+                                 5 – 40g                     500 – 650
+Writing Paper, Uncoated
+
+Paper Mill—Printing and
+                                 5 – 50g                     650 - 900
+ Writing Paper, Coated
+
+Paper Mill—Paper Board           0 – 20h                     ~550 - 680
+
+ Paper Mill—Specialty
+                                10 - 300
+       Paper
+
+
+
+
+DECEMBER 10, 2007                                                                                                                                     31
+

@@ -13,10 +13,17 @@ warnings.filterwarnings("ignore")
 load_dotenv()
 
 # Create streamlit page
-st.title("Paper Machine Agent: \n Talk to manual for Andritz Tissue Machine")
+st.title("Chat with your Documents")
+st.text("""1. The Adritz PrimeLine Tissue Machines \n2. Laptop Manual Lenovo Thinkpad \n3. Environment, Health and Safety Regulations for Paper Mills.""")
+st.text("Brought to you by:")
 st.image("logos/logo_insights.png")
-st.sidebar.image("logos/book.jpg")
-st.sidebar.link_button("Go to the Manual", os.getenv("BOOK_LINK"))
+with st.sidebar:
+    st.image("logos/book.jpg", width=200)
+    st.link_button("Go to the Manual", os.getenv("BOOK_LINK"))
+    st.image("logos/laptop.png")
+    st.link_button("Go to the Manual", os.getenv("BOOK_LINK"))
+    st.image("logos/hands.png")
+    st.link_button("Go to the Manual", os.getenv("BOOK_LINK"))
 
 embeddings = AzureOpenAIEmbeddings(
     azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
@@ -41,9 +48,10 @@ llm = AzureChatOpenAI(
 
 # Prompt template
 template = """ You are a Question Answering bot. You answer in complete sentences and step-by-step whenever necessary.
-You always provide references from the context report which is a report about a Tissue Machine from Andtritz with page number and paragraph start sentence in 
-double quotation marks. 
-Answer the question based only on the following context, which can include information about Data:
+Answer the question based only on the context present below, which can include information about the safety regulations, or \
+machine or laptop maintenance information. At the end of each answer, you provide a reference to the original document where it can be found \
+     in the format (reference name, page number, paragraph). Always double check the references and then answer.
+     If the context is not relevant to question, do not answer. :
 {context}
 Question: {question}
 """
@@ -58,7 +66,7 @@ rag_chain = (
 )
 
 st.markdown(
-    """Enter your text (prompt) in the following box. Always prompt as concrete as possible and \
+    """Enter your Question (prompt) in the following box. Always ask a question as relevant to the documents as possible and \
              always cross check the references in the manual that is provided. Please provide Feedback to Tejas :blush:."""
 )
 
