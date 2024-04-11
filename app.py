@@ -23,7 +23,7 @@ with st.sidebar:
     st.image("logos/laptop.png")
     st.link_button("Go to the Manual", "https://download.lenovo.com/pccbbs/mobiles_pdf/x250_hmm_en_sp40f30022.pdf")
     st.image("logos/hands.png")
-    st.link_button("Go to the Manual", "https://documents1.worldbank.org/curated/en/205611489661890765/text/113557-WP-ENGLISH-Pulp-and-Paper-Mills-PUBLIC.txt")
+    st.link_button("Go to the Report", "https://documents1.worldbank.org/curated/en/205611489661890765/text/113557-WP-ENGLISH-Pulp-and-Paper-Mills-PUBLIC.txt")
 
 embeddings = AzureOpenAIEmbeddings(
     azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
