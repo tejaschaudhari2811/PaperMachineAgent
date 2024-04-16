@@ -11,10 +11,10 @@ all_documents = []
 
 for file in os.listdir("data"):
     if file.endswith(".pdf"):
-        pdf_pages = PyPDFLoader(os.path.join("data",file)).load()
+        pdf_pages = PyPDFLoader(os.path.join("data", file)).load()
         all_documents.extend(pdf_pages)
     if file.endswith(".txt"):
-        text_pages = TextLoader(os.path.join("data",file)).load()
+        text_pages = TextLoader(os.path.join("data", file)).load()
         all_documents.extend(text_pages)
 
 embeddings = AzureOpenAIEmbeddings(
@@ -24,7 +24,6 @@ embeddings = AzureOpenAIEmbeddings(
 )
 
 text_splitter = RecursiveCharacterTextSplitter(
-    # Set a really small chunk size, just to show.
     chunk_size=500,
     chunk_overlap=100,
     length_function=len,
