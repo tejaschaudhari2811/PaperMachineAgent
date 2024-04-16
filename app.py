@@ -43,7 +43,7 @@ embeddings = AzureOpenAIEmbeddings(
 db = FAISS.load_local(
     "vectorstore",
     embeddings,
-    # allow_dangerous_deserialization=True
+    allow_dangerous_deserialization=True
 )
 retriever = db.as_retriever()
 
@@ -80,15 +80,8 @@ rag_chain = (
 
 st.markdown(
     """Enter your Question (prompt) in the following box. Always ask a question as relevant to the documents as possible and \
-             always cross check the references in the manual that is provided. Please provide Feedback to Tejas :blush:.""")
-
-# user_message_1 = st.text_input(label="Please enter your question...")
-
-# if user_message_1:
-#     response = rag_chain.invoke(user_message_1)
-
-#     st.markdown(response)
-
+             always cross check the references in the manual that is provided. Please provide Feedback to Tejas :blush:."""
+)
 
 def get_response(query):
     return rag_chain.invoke(query)
