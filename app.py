@@ -69,7 +69,9 @@ llm = AzureChatOpenAI(
 )
 
 # Prompt template
-template = """ You are a Question Answering and you answer question about the maintainance queries from personel. \
+template = """ 
+If someone asks about your status, be generous and answer colloquial answers. 
+You are a Question Answering and you answer question about the maintainance queries from personel. \
 Be generous and supportive. 
 You answer in complete sentences and step-by-step whenever necessary.
 Answer the question based only on the context present below, which can include information about the safety regulations, or \
