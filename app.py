@@ -16,13 +16,22 @@ load_dotenv()
 # Create streamlit page
 st.title("Chat with your Documents")
 st.text(
-    """1. The Adritz PrimeLine Tissue Machines \n2. Laptop Manual Lenovo Thinkpad \n3. Environment, Health and Safety Regulations for Paper Mills."""
+    """
+    1. The Adritz PrimeLine Tissue Machines \n
+    2. Maintenance Manual for Bosch Wan Series \n
+    3. Machine Specific Manual for BOSCH Wan28281gb. \n
+    4. Laptop Manual Lenovo Thinkpad \n
+    5. Environment, Health and Safety Regulations for Paper Mills."""
 )
 st.text("Brought to you by:")
 st.image("logos/logo_insights.png")
 with st.sidebar:
     st.image("logos/book.jpg", width=200)
     st.link_button("Go to the Manual", os.getenv("BOOK_LINK"))
+    st.image("logos/machine_1.jpeg")
+    st.link_button("Go to the Manual",os.getenv("WASHING_MACHINE_1"))
+    st.image("logos/machine_2.jpeg")
+    st.link_button("Go to the Manual",os.getenv("WASHING_MACHINE_2"))
     st.image("logos/laptop.png")
     st.link_button(
         "Go to the Manual",
