@@ -9,7 +9,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.messages import HumanMessage, AIMessage
-
+from langchain_text_splitters.character import RecursiveCharacterTextSplitter
+from PyPDF2 import PdfReader
 warnings.filterwarnings("ignore")
 load_dotenv()
 
@@ -54,8 +55,30 @@ db = FAISS.load_local(
     embeddings,
     allow_dangerous_deserialization=True
 )
-retriever = db.as_retriever()
+st.markdown(
+    """Enter your Question (prompt) in the following box. Always ask a question as relevant to the documents as possible and \
+             always cross check the references in the manual that is provided. Please provide Feedback to Tejas :blush:."""
+)
+user = st.chat_input("Please Enter your question..")
+st.markdown("You can also chat with your pdf. Please upload the pdf here")
+pdf = st.file_uploader("Upload the file", type="pdf")
+pdf_db = None
+if pdf is not None:
+    pdf_reader = PdfReader(pdf)
+    text = ""
+    for page in pdf_reader.pages:
+        text += page.extract_text()
+    
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=50, chunk_overlap=20,length_function=len,
+    is_separator_regex=False,)
+    chunks = text_splitter.split_text(text)
+    pdf_db = FAISS.from_texts(chunks, embedding=embeddings)
 
+if pdf_db is not None:
+    db.merge_from(pdf_db)
+    retriever = db.as_retriever()
+else:
+    retriever = db.as_retriever()
 
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
@@ -92,10 +115,6 @@ rag_chain = (
     | StrOutputParser()
 )
 
-st.markdown(
-    """Enter your Question (prompt) in the following box. Always ask a question as relevant to the documents as possible and \
-             always cross check the references in the manual that is provided. Please provide Feedback to Tejas :blush:."""
-)
 
 def get_response(query):
     return rag_chain.invoke(query)
@@ -112,7 +131,7 @@ for message in st.session_state.chat_history:
         with st.chat_message("WEPA Bot"):
             st.markdown(message.content)
 
-user = st.chat_input("Please Enter your question..")
+
 if user is not None and user != "":
     st.session_state.chat_history.append(HumanMessage(user))
     with st.chat_message("User"):
