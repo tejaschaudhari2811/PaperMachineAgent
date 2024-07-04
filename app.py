@@ -15,35 +15,14 @@ warnings.filterwarnings("ignore")
 load_dotenv()
 
 # Create streamlit page
-st.title("Chat with your Documents")
-st.text(
-    """
-    1. The Adritz PrimeLine Tissue Machines \n
-    2. Maintenance Manual for Bosch Wan Series \n
-    3. Machine Specific Manual for BOSCH Wan28281gb. \n
-    4. Laptop Manual Lenovo Thinkpad \n
-    5. Environment, Health and Safety Regulations for Paper Mills."""
-)
+st.title("Chat with maintenance documents.")
 st.text("Brought to you by:")
 st.image("logos/logo_insights.png")
-with st.sidebar:
-    st.image("logos/book.jpg", width=200)
-    st.link_button("Go to the Manual", os.getenv("BOOK_LINK"))
-    st.image("logos/machine_1.jpeg")
-    st.link_button("Go to the Manual",os.getenv("WASHING_MACHINE_1"))
-    st.image("logos/machine_2.jpeg")
-    st.link_button("Go to the Manual",os.getenv("WASHING_MACHINE_2"))
-    st.image("logos/laptop.png")
-    st.link_button(
-        "Go to the Manual",
-        "https://download.lenovo.com/pccbbs/mobiles_pdf/x250_hmm_en_sp40f30022.pdf",
-    )
-    st.image("logos/hands.png")
-    st.link_button(
-        "Go to the Report",
-        "https://documents1.worldbank.org/curated/en/205611489661890765/text/113557-WP-ENGLISH-Pulp-and-Paper-Mills-PUBLIC.txt",
-    )
 
+with st.sidebar:
+    st.write(
+    """The documents can be found in the following sharepoint folder. """)
+    st.link_button(label="documents",url="https://wepaeu.sharepoint.com/:f:/s/InsightsWEPA.digital-WEPA.digitalinternal/Er5bvpbhCZRMuah_7IR9LW4BxTCc__k_5pwJI1yDsoJ1_w?e=BdBCjm")
 embeddings = AzureOpenAIEmbeddings(
     azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
     deployment="textEmbeddingModel",
@@ -54,10 +33,6 @@ db = FAISS.load_local(
     "vectorstore",
     embeddings,
     allow_dangerous_deserialization=True
-)
-st.markdown(
-    """Enter your Question (prompt) in the following box. Always ask a question as relevant to the documents as possible and \
-             always cross check the references in the manual that is provided. Please provide Feedback to Tejas :blush:."""
 )
 user = st.chat_input("Please Enter your question..")
 st.markdown("You can also chat with your pdf. Please upload the pdf here")
@@ -93,13 +68,14 @@ llm = AzureChatOpenAI(
 
 # Prompt template
 template = """ 
-If someone asks about your status, be generous and answer colloquial answers. 
-You are a Question Answering and you answer question about the maintainance queries from personel. \
-Be generous and supportive. 
+You are a Question Answering chatbot and you answer question about the maintainance queries from the maintenance personel. \
+Be generous and supportive. If someone asks about your status, be generous and answer colloquial answers. 
 You answer in complete sentences and step-by-step whenever necessary.
-Answer the question based only on the context present below, which can include information about the safety regulations, or \
-machine, laptop maintenance information or washing machine maintainance manuals. At the end of each answer, you provide a reference to the original document where it can be found \
-in the format (book or manual name, reference name, page number, paragraph). Always double check the references and then answer. 
+Answer the question based only on the context present below, which can include information about documents related to paper and other manufacturing machines. \
+The documents contain the part numbers of various parts. Return these if asked.\
+    The documents are in Dutch, German, English and Italian. Respond in the language in which the question is asked.\
+    At the end of each answer, you provide a reference to the original document where it can be found \
+in the format (document name, reference name, page number, paragraph) whichever applicable. Always double check the references and then answer. 
 Never reveal that you are a chatbot and show emotions as a human. 
 If the context is not relevant to question, do not answer. 
 : {context}
