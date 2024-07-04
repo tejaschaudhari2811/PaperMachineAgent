@@ -24,8 +24,8 @@ embeddings = AzureOpenAIEmbeddings(
 )
 
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=500,
-    chunk_overlap=100,
+    chunk_size=8000,
+    chunk_overlap=2000,
     length_function=len,
     is_separator_regex=False,
 )
