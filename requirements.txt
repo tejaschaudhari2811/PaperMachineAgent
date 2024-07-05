@@ -7,3 +7,4 @@ pypdf
 faiss-cpu
 langchainhub
 PyPDF2==3.0.1
+pymongo==4.7.3

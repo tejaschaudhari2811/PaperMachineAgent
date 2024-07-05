@@ -34,6 +34,7 @@ db = FAISS.load_local(
     embeddings,
     allow_dangerous_deserialization=True
 )
+
 user = st.chat_input("Please Enter your question..")
 st.markdown("You can also chat with your pdf. Please upload the pdf here")
 pdf = st.file_uploader("Upload the file", type="pdf")
@@ -75,8 +76,9 @@ Answer the question based only on the context present below, which can include i
 The documents contain the part numbers of various parts. Return these if asked.\
     The documents are in Dutch, German, English and Italian. Respond in the language in which the question is asked.\
     At the end of each answer, you provide a reference to the original document where it can be found \
-in the format (document name, reference name, page number, paragraph) whichever applicable. Always double check the references and then answer. 
+in the format (exact document name, reference name, page number, paragraph) if available. Always double check the references and then answer. 
 Never reveal that you are a chatbot and show emotions as a human. 
+Detect the language of the question and answer in that language. 
 If the context is not relevant to question, do not answer. 
 : {context}
 Question: {question}
